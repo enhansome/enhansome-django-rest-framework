@@ -283,7 +283,7 @@
             "last_commit": "2026-08-10T03:13:02Z",
             "owner": "tfranzel",
             "repo": "drf-spectacular",
-            "stars": 2852
+            "stars": 2851
           }
         },
         {
@@ -745,7 +745,7 @@
             "last_commit": "2026-08-02T10:47:52Z",
             "owner": "django-json-api",
             "repo": "django-rest-framework-json-api",
-            "stars": 1251
+            "stars": 1252
           }
         },
         {
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T21:29:18.764Z",
+    "last_updated": "2026-08-14T21:03:30.042Z",
     "original_repository": "nioperas06/awesome-django-rest-framework",
     "original_repository_sha": "4afbf0e98fa507bd38d73e47202983a27fae6407",
     "enhanced_repository": "enhansome/enhansome-django-rest-framework",
