@@ -269,7 +269,7 @@
             "last_commit": "2026-07-20T04:33:54Z",
             "owner": "axnsan12",
             "repo": "drf-yasg",
-            "stars": 3545
+            "stars": 3546
           }
         },
         {
@@ -432,7 +432,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T20:28:21Z",
+            "last_commit": "2026-08-14T21:48:12Z",
             "owner": "openwisp",
             "repo": "django-rest-framework-gis",
             "stars": 1125
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T21:03:30.042Z",
+    "last_updated": "2026-08-15T20:59:39.081Z",
     "original_repository": "nioperas06/awesome-django-rest-framework",
     "original_repository_sha": "4afbf0e98fa507bd38d73e47202983a27fae6407",
     "enhanced_repository": "enhansome/enhansome-django-rest-framework",

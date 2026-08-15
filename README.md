@@ -60,13 +60,13 @@
 
 ### Documentation
 
-* [drf-yasg](https://github.com/axnsan12/drf-yasg) ⭐ 3,545 | 🐛 243 | 🌐 Python | 📅 2026-07-20: Alternative OpenAPI Generator for Django REST Framework with response schema support
-* [drf-spectacular](https://github.com/tfranzel/drf-spectacular) ⭐ 2,851 | 🐛 200 | 🌐 Python | 📅 2026-08-10: Sane and flexible OpenAPI 3.0 schema generation for Django REST framework
+* [drf-yasg](https://github.com/axnsan12/drf-yasg) ⭐ 3,546 | 🐛 243 | 🌐 Python | 📅 2026-07-20: Alternative OpenAPI Generator for Django REST Framework with response schema support
+* [drf-spectacular](https://github.com/tfranzel/drf-spectacular) ⭐ 2,851 | 🐛 202 | 🌐 Python | 📅 2026-08-10: Sane and flexible OpenAPI 3.0 schema generation for Django REST framework
 * [drf-openapi-tester](https://github.com/snok/drf-openapi-tester) ⚠️ Archived: Test drf test responses against OpenAPI/Swagger documentation.
 
 ### Routing
 
-* [drf-nested-routers](https://github.com/alanjds/drf-nested-routers) ⭐ 1,799 | 🐛 43 | 🌐 Python | 📅 2026-08-10: Nested Routers for Django Rest Framework
+* [drf-nested-routers](https://github.com/alanjds/drf-nested-routers) ⭐ 1,799 | 🐛 44 | 🌐 Python | 📅 2026-08-15: Nested Routers for Django Rest Framework
 
 ### Serialization
 
@@ -81,7 +81,7 @@
 ### Visualization
 
 * [django-rest-pandas](https://github.com/wq/django-rest-pandas) ⭐ 1,277 | 🐛 9 | 🌐 Python | 📅 2026-02-10: Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel)
-* [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis) ⭐ 1,125 | 🐛 33 | 🌐 Python | 📅 2026-08-10: Geographic add-ons for Django REST Framework
+* [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis) ⭐ 1,125 | 🐛 30 | 🌐 Python | 📅 2026-08-14: Geographic add-ons for Django REST Framework
 * [drf-renderer-xlsx](https://github.com/wharton/drf-renderer-xlsx) ⭐ 240 | 🐛 10 | 🌐 Python | 📅 2026-08-11: Allows you to create XLSX for Django REST Framework
 
 ### Logging
@@ -172,4 +172,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
