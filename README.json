@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T17:42:11Z",
+            "last_commit": "2026-08-17T17:51:09Z",
             "owner": "jazzband",
             "repo": "djangorestframework-simplejwt",
             "stars": 4330
@@ -283,7 +283,7 @@
             "last_commit": "2026-08-10T03:13:02Z",
             "owner": "tfranzel",
             "repo": "drf-spectacular",
-            "stars": 2851
+            "stars": 2850
           }
         },
         {
@@ -331,7 +331,7 @@
             "last_commit": "2023-10-16T05:55:10Z",
             "owner": "rsinger86",
             "repo": "drf-flex-fields",
-            "stars": 768
+            "stars": 767
           }
         },
         {
@@ -359,7 +359,7 @@
             "last_commit": "2024-08-14T15:09:15Z",
             "owner": "heywbj",
             "repo": "django-rest-framework-recursive",
-            "stars": 367
+            "stars": 366
           }
         },
         {
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T20:59:24.982Z",
+    "last_updated": "2026-08-17T21:03:57.679Z",
     "original_repository": "nioperas06/awesome-django-rest-framework",
     "original_repository_sha": "4afbf0e98fa507bd38d73e47202983a27fae6407",
     "enhanced_repository": "enhansome/enhansome-django-rest-framework",
