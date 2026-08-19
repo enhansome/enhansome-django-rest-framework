@@ -1,844 +1,911 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "django-rest-framework-simplejwt",
+              "description": "A JSON Web Token authentication plugin for the Django REST Framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90401750,
+                "language": "Python",
+                "last_commit": "2026-08-17T17:51:09Z",
+                "owner": "jazzband",
+                "repo": "djangorestframework-simplejwt",
+                "stars": 4330
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-oauth-toolkit",
+              "description": "Django OAuth Toolkit can help you providing out of the box all the endpoints, data and logic needed to add OAuth2 capabilities to your Django projects. Django OAuth Toolkit makes extensive use of the excellent OAuthLib, so that everything is rfc-compliant.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10176112,
+                "language": "Python",
+                "last_commit": "2026-08-09T13:37:43Z",
+                "owner": "django-oauth",
+                "repo": "django-oauth-toolkit",
+                "stars": 3333
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "djoser",
+              "description": "REST implementation of Django authentication system",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24642075,
+                "language": "Python",
+                "last_commit": "2026-08-01T20:17:04Z",
+                "owner": "sunscrapers",
+                "repo": "djoser",
+                "stars": 2683
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dj-rest-auth",
+              "description": "A set of REST API endpoints to handle User Registration and Authentication tasks",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 243840407,
+                "language": "Python",
+                "last_commit": "2026-06-05T17:02:00Z",
+                "owner": "iMerica",
+                "repo": "dj-rest-auth",
+                "stars": 1865
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-rest-framework-social-oauth2",
+              "description": "python-social-auth and oauth2 support for django-rest-framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31625947,
+                "language": "Python",
+                "last_commit": "2026-04-17T20:24:57Z",
+                "owner": "RealmTeam",
+                "repo": "django-rest-framework-social-oauth2",
+                "stars": 1065
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-rest-registration",
+              "description": "User registration and authentication REST API, based on Django REST Framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48646785,
+                "language": "Python",
+                "last_commit": "2026-07-15T22:17:12Z",
+                "owner": "apragacz",
+                "repo": "django-rest-registration",
+                "stars": 548
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-rest-passwordreset",
+              "description": "Password reset endpoints that hook into Django Authentication system",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84864340,
+                "language": "Python",
+                "last_commit": "2026-06-30T10:52:41Z",
+                "owner": "anexia-it",
+                "repo": "django-rest-passwordreset",
+                "stars": 435
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "djangorest-routes",
+              "description": "Djangorest Routes is an authentication library strongly built in Python that serves the purpose of quick bootstrapping a project's authentication infrastructure.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 465215415,
+                "language": "Python",
+                "last_commit": "2022-10-05T21:32:26Z",
+                "owner": "aybruhm",
+                "repo": "djangorest-routes",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Authentication"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "djangorestframework-api-key",
+              "description": "API key permissions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 142661285,
+                "language": "Python",
+                "last_commit": "2025-04-04T08:39:25Z",
+                "owner": "florimondmanca",
+                "repo": "djangorestframework-api-key",
+                "stars": 742
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drf-access-policy",
+              "description": "Declarative access policies/permissions modeled after AWS' IAM policies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183973153,
+                "language": "Python",
+                "last_commit": "2024-08-20T08:07:51Z",
+                "owner": "rsinger86",
+                "repo": "drf-access-policy",
+                "stars": 513
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dry-rest-permissions",
+              "description": "Rules based permissions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39894746,
+                "language": "Python",
+                "last_commit": "2022-12-26T20:02:19Z",
+                "owner": "dbkaplan",
+                "repo": "dry-rest-permissions",
+                "stars": 370
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rest_condition",
+              "description": "Complex permissions flow.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14925611,
+                "language": "Python",
+                "last_commit": "2019-01-04T15:23:56Z",
+                "owner": "caxap",
+                "repo": "rest_condition",
+                "stars": 279
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-rest-framework-roles",
+              "description": "Parameterizes Django REST Framework methods over user-defined roles.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65865664,
+                "language": "Python",
+                "last_commit": "2019-07-10T15:17:48Z",
+                "owner": "computer-lab",
+                "repo": "django-rest-framework-roles",
+                "stars": 150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-rest-framework-role-filters",
+              "description": "Simple role filtering.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120088976,
+                "language": "Python",
+                "last_commit": "2023-10-06T13:34:34Z",
+                "owner": "allisson",
+                "repo": "django-rest-framework-role-filters",
+                "stars": 97
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "djangorestframework-composed-permissions",
+              "description": "A simple way to define complex permissions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12436383,
+                "language": "Python",
+                "last_commit": "2019-03-17T22:18:31Z",
+                "owner": "niwinz",
+                "repo": "djangorestframework-composed-permissions",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drf-psq",
+              "description": "The simplest and most general way to manage action-based permissions, serializers, and querysets dependent on permission-based rules.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 277336162,
+                "language": "Python",
+                "last_commit": "2021-02-26T18:12:35Z",
+                "owner": "drf-psq",
+                "repo": "drf-psq",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "axioms-drf-py",
+              "description": "OAuth2/OIDC based authentication and authorization for Django REST Framework APIs. Supports authentication and claim-based fine-grained authorization (scopes, roles, permissions) using JWT tokens.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242898992,
+                "language": "Python",
+                "last_commit": "2025-11-24T04:57:35Z",
+                "owner": "axioms-io",
+                "repo": "axioms-drf-py",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Authorization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "drf-yasg",
+              "description": "Alternative OpenAPI Generator for Django REST Framework with response schema support",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112461400,
+                "language": "Python",
+                "last_commit": "2026-07-20T04:33:54Z",
+                "owner": "axnsan12",
+                "repo": "drf-yasg",
+                "stars": 3545
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drf-spectacular",
+              "description": "Sane and flexible OpenAPI 3.0 schema generation for Django REST framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244234763,
+                "language": "Python",
+                "last_commit": "2026-08-10T03:13:02Z",
+                "owner": "tfranzel",
+                "repo": "drf-spectacular",
+                "stars": 2851
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drf-openapi-tester",
+              "description": "Test drf test responses against OpenAPI/Swagger documentation.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 232892108,
+                "language": "Python",
+                "last_commit": "2023-11-19T17:47:20Z",
+                "owner": "snok",
+                "repo": "drf-openapi-tester",
+                "stars": 114
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Documentation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "drf-writable-nested",
+              "description": "Writable nested model serializer for Django REST Framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82379726,
+                "language": "Python",
+                "last_commit": "2025-09-15T09:21:09Z",
+                "owner": "beda-software",
+                "repo": "drf-writable-nested",
+                "stars": 1139
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drf-flex-fields",
+              "description": "Dynamically set fields and expand nested resources in Django REST Framework serializers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77425239,
+                "language": "Python",
+                "last_commit": "2023-10-16T05:55:10Z",
+                "owner": "rsinger86",
+                "repo": "drf-flex-fields",
+                "stars": 767
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drf-extra-fields",
+              "description": "Extra fields for Django REST framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21973580,
+                "language": "Python",
+                "last_commit": "2025-08-26T13:00:24Z",
+                "owner": "Hipo",
+                "repo": "drf-extra-fields",
+                "stars": 688
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-rest-framework-recursive",
+              "description": "Recursive Serialization for Django REST framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30250508,
+                "language": "Python",
+                "last_commit": "2024-08-14T15:09:15Z",
+                "owner": "heywbj",
+                "repo": "django-rest-framework-recursive",
+                "stars": 366
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drf-shapeless-serializers",
+              "description": "provides powerful mixins that extend Django REST Framework's serializers with dynamic configuration capabilities so you can select fields at runtime, rename output keys dynamically, modify field attributes per-request, add and configure nested relationships on-the-fly and apply conditional field logic.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 997354308,
+                "language": "Python",
+                "last_commit": "2026-01-12T18:31:57Z",
+                "owner": "khaledsukkar2",
+                "repo": "drf-shapeless-serializers",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drf-errors",
+              "description": "Extension for Django REST framework error display.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 258304326,
+                "language": "Python",
+                "last_commit": "2022-09-16T18:50:17Z",
+                "owner": "null-none",
+                "repo": "drf-errors",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drf-simple-api-errors",
+              "description": "Consistent, predictable API error responses inspired by RFC 7807, with drf-spectacular integration for OpenAPI schemas.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 792455455,
+                "language": "Python",
+                "last_commit": "2026-06-15T14:22:36Z",
+                "owner": "gripep",
+                "repo": "drf-simple-api-errors",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Serialization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "django-rest-pandas",
+              "description": "Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15720872,
+                "language": "Python",
+                "last_commit": "2026-02-10T18:32:25Z",
+                "owner": "wq",
+                "repo": "django-rest-pandas",
+                "stars": 1277
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-rest-framework-gis",
+              "description": "Geographic add-ons for Django REST Framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7987095,
+                "language": "Python",
+                "last_commit": "2026-08-14T21:48:12Z",
+                "owner": "openwisp",
+                "repo": "django-rest-framework-gis",
+                "stars": 1125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drf-renderer-xlsx",
+              "description": "Allows you to create XLSX for Django REST Framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105686080,
+                "language": "Python",
+                "last_commit": "2026-08-19T00:02:40Z",
+                "owner": "django-commons",
+                "repo": "drf-excel",
+                "stars": 240
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Visualization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "drf-api-tracking",
+              "description": "Provides a Django model and DRF view mixin that work together to log Django Rest Framework requests to the database.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 241950356,
+                "language": "Python",
+                "last_commit": "2024-07-26T23:30:58Z",
+                "owner": "lingster",
+                "repo": "drf-api-tracking",
+                "stars": 287
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-requestlogs",
+              "description": "Package providing middleware and other helpers for audit logging.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192197280,
+                "language": "Python",
+                "last_commit": "2025-03-05T06:11:36Z",
+                "owner": "Raekkeri",
+                "repo": "django-requestlogs",
+                "stars": 65
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Logging"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "django-rest-framework-filters",
+              "description": "Better filtering.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15126511,
+                "language": "Python",
+                "last_commit": "2023-11-25T12:00:14Z",
+                "owner": "philipn",
+                "repo": "django-rest-framework-filters",
+                "stars": 853
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-url-filter",
+              "description": "Django URL Filter provides a safe way to filter data via human-friendly URLs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41273555,
+                "language": "Python",
+                "last_commit": "2024-05-03T10:21:32Z",
+                "owner": "miki725",
+                "repo": "django-url-filter",
+                "stars": 332
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drf-url-filters",
+              "description": "A django app to apply filters on drf querysets using query params with validations using voluptuous.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55857140,
+                "language": "Python",
+                "last_commit": "2023-06-20T05:54:10Z",
+                "owner": "manjitkumar",
+                "repo": "drf-url-filters",
+                "stars": 175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-rest-framework-word-search-filter",
+              "description": "Full word search filter backend for Django REST Framework. DB backend independent.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35097533,
+                "language": "Python",
+                "last_commit": "2020-10-12T06:26:36Z",
+                "owner": "trollknurr",
+                "repo": "django-rest-framework-word-search-filter",
+                "stars": 76
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Filtering"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "django-rest-framework-link-header-pagination",
+              "description": "Provide pagination for django-rest-framework using a \"Link\" HTTP header",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97010697,
+                "language": "Python",
+                "last_commit": "2024-07-24T15:49:45Z",
+                "owner": "tbeadle",
+                "repo": "django-rest-framework-link-header-pagination",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drf-proxy-pagination",
+              "description": "Pagination class for Django REST Framework to choose pagination class by query parameter",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71636006,
+                "language": "Python",
+                "last_commit": "2026-04-13T16:44:41Z",
+                "owner": "tuffnatty",
+                "repo": "drf-proxy-pagination",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Pagination"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "django-rest-pandas",
+              "description": "Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15720872,
+                "language": "Python",
+                "last_commit": "2026-02-10T18:32:25Z",
+                "owner": "wq",
+                "repo": "django-rest-pandas",
+                "stars": 1277
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "djangorestframework-camel-case",
+              "description": "Camel case JSON support for Django REST framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15352158,
+                "language": "Python",
+                "last_commit": "2026-07-20T16:12:36Z",
+                "owner": "vbabiy",
+                "repo": "djangorestframework-camel-case",
+                "stars": 674
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-rest-framework-csv",
+              "description": "CSV Tools for Django REST Framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7607807,
+                "language": "Python",
+                "last_commit": "2025-10-13T01:12:04Z",
+                "owner": "mjumbewu",
+                "repo": "django-rest-framework-csv",
+                "stars": 368
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drf-excel",
+              "description": "An XLSX spreadsheet renderer for Django REST Framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105686080,
+                "language": "Python",
+                "last_commit": "2026-08-19T00:02:40Z",
+                "owner": "django-commons",
+                "repo": "drf-excel",
+                "stars": 240
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drf-ujson-renderer",
+              "description": "Django Rest Framework renderer using ujson.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14192048,
+                "language": "Python",
+                "last_commit": "2021-03-16T00:33:31Z",
+                "owner": "gizmag",
+                "repo": "drf-ujson-renderer",
+                "stars": 126
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-rest-framework-xml",
+              "description": "XML support for Django REST Framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27234185,
+                "language": "Python",
+                "last_commit": "2023-09-18T07:22:39Z",
+                "owner": "jpadilla",
+                "repo": "django-rest-framework-xml",
+                "stars": 87
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rest-framework-latex",
+              "description": "A LaTeX renderer for Django REST Framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59004921,
+                "language": "Python",
+                "last_commit": "2021-06-10T18:02:08Z",
+                "owner": "mypebble",
+                "repo": "rest-framework-latex",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-rest-framework-yaml",
+              "description": "YAML support for Django REST Framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27057183,
+                "language": "Python",
+                "last_commit": "2023-04-26T21:45:09Z",
+                "owner": "jpadilla",
+                "repo": "django-rest-framework-yaml",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-rest-framework-jsonp",
+              "description": "JSONP support for Django REST Framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27236250,
+                "language": "Python",
+                "last_commit": "2022-12-26T20:15:27Z",
+                "owner": "jpadilla",
+                "repo": "django-rest-framework-jsonp",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Renderers and Parsers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "drf-extensions",
+              "description": "DRF-extensions is a collection of custom extensions for Django REST Framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11654191,
+                "language": "Python",
+                "last_commit": "2026-08-06T15:27:10Z",
+                "owner": "chibisov",
+                "repo": "drf-extensions",
+                "stars": 1550
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-rest-framework-json-api",
+              "description": "Implements most of the JSON API 1.0 spec.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21987374,
+                "language": "Python",
+                "last_commit": "2026-08-02T10:47:52Z",
+                "owner": "django-json-api",
+                "repo": "django-rest-framework-json-api",
+                "stars": 1252
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-restql",
+              "description": "Turn your API made with Django REST Framework(DRF) into a GraphQL like API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179890697,
+                "language": "Python",
+                "last_commit": "2025-08-13T12:32:56Z",
+                "owner": "yezyilomo",
+                "repo": "django-restql",
+                "stars": 624
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drf-generators",
+              "description": "Generate Views, Serializers, and Urls for your Django Rest Framework application.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33523229,
+                "language": "Python",
+                "last_commit": "2022-10-19T15:37:50Z",
+                "owner": "Brobin",
+                "repo": "drf-generators",
+                "stars": 349
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-rest-cli",
+              "description": "A CRUD endpoints generator and flexible cookiecutter for rapid REST APIs dev.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 483978629,
+                "language": "Python",
+                "last_commit": "2022-06-11T17:45:37Z",
+                "owner": "py-universe",
+                "repo": "django-rest-cli",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-rest-localflavor",
+              "description": "Country-specific Django helpers, to use in Django Rest Framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45064875,
+                "language": "Python",
+                "last_commit": "2022-12-26T20:15:03Z",
+                "owner": "gilsondev",
+                "repo": "django-rest-localflavor",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-rest-tsg",
+              "description": "A TypeScript code generator for DRF serializers, enums and dataclasses.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 432478314,
+                "language": "Python",
+                "last_commit": "2024-03-31T04:06:22Z",
+                "owner": "jinkanhq",
+                "repo": "django-rest-tsg",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drf-sendables",
+              "description": "User messages for Django REST Framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 761778706,
+                "language": "Python",
+                "last_commit": "2025-06-07T02:02:46Z",
+                "owner": "amikrop",
+                "repo": "drf-sendables",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other"
+        }
+      ],
       "title": "Packages"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "django-rest-framework-simplejwt",
-          "description": "A JSON Web Token authentication plugin for the Django REST Framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T17:51:09Z",
-            "owner": "jazzband",
-            "repo": "djangorestframework-simplejwt",
-            "stars": 4330
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-oauth-toolkit",
-          "description": "Django OAuth Toolkit can help you providing out of the box all the endpoints, data and logic needed to add OAuth2 capabilities to your Django projects. Django OAuth Toolkit makes extensive use of the excellent OAuthLib, so that everything is rfc-compliant.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-09T13:37:43Z",
-            "owner": "django-oauth",
-            "repo": "django-oauth-toolkit",
-            "stars": 3333
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "djoser",
-          "description": "REST implementation of Django authentication system",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-01T20:17:04Z",
-            "owner": "sunscrapers",
-            "repo": "djoser",
-            "stars": 2683
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dj-rest-auth",
-          "description": "A set of REST API endpoints to handle User Registration and Authentication tasks",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-05T17:02:00Z",
-            "owner": "iMerica",
-            "repo": "dj-rest-auth",
-            "stars": 1865
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-rest-framework-social-oauth2",
-          "description": "python-social-auth and oauth2 support for django-rest-framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-17T20:24:57Z",
-            "owner": "RealmTeam",
-            "repo": "django-rest-framework-social-oauth2",
-            "stars": 1065
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-rest-registration",
-          "description": "User registration and authentication REST API, based on Django REST Framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-15T22:17:12Z",
-            "owner": "apragacz",
-            "repo": "django-rest-registration",
-            "stars": 548
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-rest-passwordreset",
-          "description": "Password reset endpoints that hook into Django Authentication system",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-30T10:52:41Z",
-            "owner": "anexia-it",
-            "repo": "django-rest-passwordreset",
-            "stars": 435
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "djangorest-routes",
-          "description": "Djangorest Routes is an authentication library strongly built in Python that serves the purpose of quick bootstrapping a project's authentication infrastructure.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-10-05T21:32:26Z",
-            "owner": "aybruhm",
-            "repo": "djangorest-routes",
-            "stars": 20
-          }
-        }
-      ],
-      "title": "Authentication"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "djangorestframework-api-key",
-          "description": "API key permissions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-04T08:39:25Z",
-            "owner": "florimondmanca",
-            "repo": "djangorestframework-api-key",
-            "stars": 742
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drf-access-policy",
-          "description": "Declarative access policies/permissions modeled after AWS' IAM policies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-20T08:07:51Z",
-            "owner": "rsinger86",
-            "repo": "drf-access-policy",
-            "stars": 513
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dry-rest-permissions",
-          "description": "Rules based permissions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-26T20:02:19Z",
-            "owner": "dbkaplan",
-            "repo": "dry-rest-permissions",
-            "stars": 370
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rest_condition",
-          "description": "Complex permissions flow.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-01-04T15:23:56Z",
-            "owner": "caxap",
-            "repo": "rest_condition",
-            "stars": 279
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-rest-framework-roles",
-          "description": "Parameterizes Django REST Framework methods over user-defined roles.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-07-10T15:17:48Z",
-            "owner": "computer-lab",
-            "repo": "django-rest-framework-roles",
-            "stars": 150
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-rest-framework-role-filters",
-          "description": "Simple role filtering.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-10-06T13:34:34Z",
-            "owner": "allisson",
-            "repo": "django-rest-framework-role-filters",
-            "stars": 97
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "djangorestframework-composed-permissions",
-          "description": "A simple way to define complex permissions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-03-17T22:18:31Z",
-            "owner": "niwinz",
-            "repo": "djangorestframework-composed-permissions",
-            "stars": 81
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drf-psq",
-          "description": "The simplest and most general way to manage action-based permissions, serializers, and querysets dependent on permission-based rules.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-02-26T18:12:35Z",
-            "owner": "drf-psq",
-            "repo": "drf-psq",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "axioms-drf-py",
-          "description": "OAuth2/OIDC based authentication and authorization for Django REST Framework APIs. Supports authentication and claim-based fine-grained authorization (scopes, roles, permissions) using JWT tokens.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-24T04:57:35Z",
-            "owner": "axioms-io",
-            "repo": "axioms-drf-py",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Authorization"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "drf-yasg",
-          "description": "Alternative OpenAPI Generator for Django REST Framework with response schema support",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-20T04:33:54Z",
-            "owner": "axnsan12",
-            "repo": "drf-yasg",
-            "stars": 3545
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drf-spectacular",
-          "description": "Sane and flexible OpenAPI 3.0 schema generation for Django REST framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-10T03:13:02Z",
-            "owner": "tfranzel",
-            "repo": "drf-spectacular",
-            "stars": 2850
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drf-openapi-tester",
-          "description": "Test drf test responses against OpenAPI/Swagger documentation.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-11-19T17:47:20Z",
-            "owner": "snok",
-            "repo": "drf-openapi-tester",
-            "stars": 114
-          }
-        }
-      ],
-      "title": "Documentation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "drf-writable-nested",
-          "description": "Writable nested model serializer for Django REST Framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-15T09:21:09Z",
-            "owner": "beda-software",
-            "repo": "drf-writable-nested",
-            "stars": 1139
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drf-flex-fields",
-          "description": "Dynamically set fields and expand nested resources in Django REST Framework serializers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-10-16T05:55:10Z",
-            "owner": "rsinger86",
-            "repo": "drf-flex-fields",
-            "stars": 767
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drf-extra-fields",
-          "description": "Extra fields for Django REST framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-26T13:00:24Z",
-            "owner": "Hipo",
-            "repo": "drf-extra-fields",
-            "stars": 688
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-rest-framework-recursive",
-          "description": "Recursive Serialization for Django REST framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-14T15:09:15Z",
-            "owner": "heywbj",
-            "repo": "django-rest-framework-recursive",
-            "stars": 366
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drf-shapeless-serializers",
-          "description": "provides powerful mixins that extend Django REST Framework's serializers with dynamic configuration capabilities so you can select fields at runtime, rename output keys dynamically, modify field attributes per-request, add and configure nested relationships on-the-fly and apply conditional field logic.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-12T18:31:57Z",
-            "owner": "khaledsukkar2",
-            "repo": "drf-shapeless-serializers",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drf-errors",
-          "description": "Extension for Django REST framework error display.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-09-16T18:50:17Z",
-            "owner": "null-none",
-            "repo": "drf-errors",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drf-simple-api-errors",
-          "description": "Consistent, predictable API error responses inspired by RFC 7807, with drf-spectacular integration for OpenAPI schemas.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-15T14:22:36Z",
-            "owner": "gripep",
-            "repo": "drf-simple-api-errors",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "Serialization"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "django-rest-pandas",
-          "description": "Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-10T18:32:25Z",
-            "owner": "wq",
-            "repo": "django-rest-pandas",
-            "stars": 1277
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-rest-framework-gis",
-          "description": "Geographic add-ons for Django REST Framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T21:48:12Z",
-            "owner": "openwisp",
-            "repo": "django-rest-framework-gis",
-            "stars": 1125
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drf-renderer-xlsx",
-          "description": "Allows you to create XLSX for Django REST Framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:25:41Z",
-            "owner": "django-commons",
-            "repo": "drf-excel",
-            "stars": 240
-          }
-        }
-      ],
-      "title": "Visualization"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "drf-api-tracking",
-          "description": "Provides a Django model and DRF view mixin that work together to log Django Rest Framework requests to the database.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-26T23:30:58Z",
-            "owner": "lingster",
-            "repo": "drf-api-tracking",
-            "stars": 287
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-requestlogs",
-          "description": "Package providing middleware and other helpers for audit logging.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-05T06:11:36Z",
-            "owner": "Raekkeri",
-            "repo": "django-requestlogs",
-            "stars": 65
-          }
-        }
-      ],
-      "title": "Logging"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "django-rest-framework-filters",
-          "description": "Better filtering.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-11-25T12:00:14Z",
-            "owner": "philipn",
-            "repo": "django-rest-framework-filters",
-            "stars": 853
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-url-filter",
-          "description": "Django URL Filter provides a safe way to filter data via human-friendly URLs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-03T10:21:32Z",
-            "owner": "miki725",
-            "repo": "django-url-filter",
-            "stars": 332
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drf-url-filters",
-          "description": "A django app to apply filters on drf querysets using query params with validations using voluptuous.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-06-20T05:54:10Z",
-            "owner": "manjitkumar",
-            "repo": "drf-url-filters",
-            "stars": 175
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-rest-framework-word-search-filter",
-          "description": "Full word search filter backend for Django REST Framework. DB backend independent.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-10-12T06:26:36Z",
-            "owner": "trollknurr",
-            "repo": "django-rest-framework-word-search-filter",
-            "stars": 76
-          }
-        }
-      ],
-      "title": "Filtering"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "django-rest-framework-link-header-pagination",
-          "description": "Provide pagination for django-rest-framework using a \"Link\" HTTP header",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-24T15:49:45Z",
-            "owner": "tbeadle",
-            "repo": "django-rest-framework-link-header-pagination",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drf-proxy-pagination",
-          "description": "Pagination class for Django REST Framework to choose pagination class by query parameter",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-13T16:44:41Z",
-            "owner": "tuffnatty",
-            "repo": "drf-proxy-pagination",
-            "stars": 15
-          }
-        }
-      ],
-      "title": "Pagination"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "django-rest-pandas",
-          "description": "Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-10T18:32:25Z",
-            "owner": "wq",
-            "repo": "django-rest-pandas",
-            "stars": 1277
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "djangorestframework-camel-case",
-          "description": "Camel case JSON support for Django REST framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-20T16:12:36Z",
-            "owner": "vbabiy",
-            "repo": "djangorestframework-camel-case",
-            "stars": 674
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-rest-framework-csv",
-          "description": "CSV Tools for Django REST Framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-13T01:12:04Z",
-            "owner": "mjumbewu",
-            "repo": "django-rest-framework-csv",
-            "stars": 368
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drf-excel",
-          "description": "An XLSX spreadsheet renderer for Django REST Framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:25:41Z",
-            "owner": "django-commons",
-            "repo": "drf-excel",
-            "stars": 240
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drf-ujson-renderer",
-          "description": "Django Rest Framework renderer using ujson.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-03-16T00:33:31Z",
-            "owner": "gizmag",
-            "repo": "drf-ujson-renderer",
-            "stars": 126
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-rest-framework-xml",
-          "description": "XML support for Django REST Framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-09-18T07:22:39Z",
-            "owner": "jpadilla",
-            "repo": "django-rest-framework-xml",
-            "stars": 87
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rest-framework-latex",
-          "description": "A LaTeX renderer for Django REST Framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-06-10T18:02:08Z",
-            "owner": "mypebble",
-            "repo": "rest-framework-latex",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-rest-framework-yaml",
-          "description": "YAML support for Django REST Framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-04-26T21:45:09Z",
-            "owner": "jpadilla",
-            "repo": "django-rest-framework-yaml",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-rest-framework-jsonp",
-          "description": "JSONP support for Django REST Framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-26T20:15:27Z",
-            "owner": "jpadilla",
-            "repo": "django-rest-framework-jsonp",
-            "stars": 22
-          }
-        }
-      ],
-      "title": "Renderers and Parsers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "drf-extensions",
-          "description": "DRF-extensions is a collection of custom extensions for Django REST Framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-06T15:27:10Z",
-            "owner": "chibisov",
-            "repo": "drf-extensions",
-            "stars": 1549
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-rest-framework-json-api",
-          "description": "Implements most of the JSON API 1.0 spec.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-02T10:47:52Z",
-            "owner": "django-json-api",
-            "repo": "django-rest-framework-json-api",
-            "stars": 1252
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-restql",
-          "description": "Turn your API made with Django REST Framework(DRF) into a GraphQL like API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-13T12:32:56Z",
-            "owner": "yezyilomo",
-            "repo": "django-restql",
-            "stars": 624
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drf-generators",
-          "description": "Generate Views, Serializers, and Urls for your Django Rest Framework application.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-10-19T15:37:50Z",
-            "owner": "Brobin",
-            "repo": "drf-generators",
-            "stars": 349
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-rest-cli",
-          "description": "A CRUD endpoints generator and flexible cookiecutter for rapid REST APIs dev.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-06-11T17:45:37Z",
-            "owner": "py-universe",
-            "repo": "django-rest-cli",
-            "stars": 117
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-rest-localflavor",
-          "description": "Country-specific Django helpers, to use in Django Rest Framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-26T20:15:03Z",
-            "owner": "gilsondev",
-            "repo": "django-rest-localflavor",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-rest-tsg",
-          "description": "A TypeScript code generator for DRF serializers, enums and dataclasses.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-31T04:06:22Z",
-            "owner": "jinkanhq",
-            "repo": "django-rest-tsg",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drf-sendables",
-          "description": "User messages for Django REST Framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-07T02:02:46Z",
-            "owner": "amikrop",
-            "repo": "drf-sendables",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "Other"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:01:46.727Z",
+    "last_updated": "2026-08-19T12:25:53.351Z",
     "original_repository": "nioperas06/awesome-django-rest-framework",
+    "original_repository_id": 96670275,
     "original_repository_sha": "4afbf0e98fa507bd38d73e47202983a27fae6407",
     "enhanced_repository": "enhansome/enhansome-django-rest-framework",
     "enhanced_repository_description": null,
