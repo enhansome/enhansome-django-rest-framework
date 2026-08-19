@@ -36,7 +36,7 @@
 
 ### Authentication
 
-* [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) ⭐ 4,330 | 🐛 160 | 🌐 Python | 📅 2026-08-17: A JSON Web Token authentication plugin for the Django REST Framework
+* [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) ⭐ 4,331 | 🐛 160 | 🌐 Python | 📅 2026-08-17: A JSON Web Token authentication plugin for the Django REST Framework
 * [django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit) ⭐ 3,333 | 🐛 57 | 🌐 Python | 📅 2026-08-09: Django OAuth Toolkit can help you providing out of the box all the endpoints, data and logic needed to add OAuth2 capabilities to your Django projects. Django OAuth Toolkit makes extensive use of the excellent OAuthLib, so that everything is rfc-compliant.
 * [djoser](https://github.com/sunscrapers/djoser) ⭐ 2,683 | 🐛 200 | 🌐 Python | 📅 2026-08-01: REST implementation of Django authentication system
 * [dj-rest-auth](https://github.com/jazzband/dj-rest-auth) ⭐ 1,865 | 🐛 259 | 🌐 Python | 📅 2026-06-05: A set of REST API endpoints to handle User Registration and Authentication tasks

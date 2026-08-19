@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-17T17:51:09Z",
                 "owner": "jazzband",
                 "repo": "djangorestframework-simplejwt",
-                "stars": 4330
+                "stars": 4331
               }
             },
             {
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:25:53.351Z",
+    "last_updated": "2026-08-19T21:04:22.876Z",
     "original_repository": "nioperas06/awesome-django-rest-framework",
     "original_repository_id": 96670275,
     "original_repository_sha": "4afbf0e98fa507bd38d73e47202983a27fae6407",
