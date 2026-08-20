@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-17T17:51:09Z",
                 "owner": "jazzband",
                 "repo": "djangorestframework-simplejwt",
-                "stars": 4331
+                "stars": 4332
               }
             },
             {
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 10176112,
                 "language": "Python",
-                "last_commit": "2026-08-09T13:37:43Z",
+                "last_commit": "2026-08-20T20:42:14Z",
                 "owner": "django-oauth",
                 "repo": "django-oauth-toolkit",
                 "stars": 3333
@@ -283,7 +283,7 @@
                 "archived": false,
                 "id": 112461400,
                 "language": "Python",
-                "last_commit": "2026-07-20T04:33:54Z",
+                "last_commit": "2026-08-20T13:38:05Z",
                 "owner": "axnsan12",
                 "repo": "drf-yasg",
                 "stars": 3545
@@ -301,7 +301,7 @@
                 "last_commit": "2026-08-10T03:13:02Z",
                 "owner": "tfranzel",
                 "repo": "drf-spectacular",
-                "stars": 2851
+                "stars": 2852
               }
             },
             {
@@ -338,7 +338,7 @@
                 "last_commit": "2025-09-15T09:21:09Z",
                 "owner": "beda-software",
                 "repo": "drf-writable-nested",
-                "stars": 1139
+                "stars": 1140
               }
             },
             {
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T21:04:22.876Z",
+    "last_updated": "2026-08-20T21:05:07.827Z",
     "original_repository": "nioperas06/awesome-django-rest-framework",
     "original_repository_id": 96670275,
     "original_repository_sha": "4afbf0e98fa507bd38d73e47202983a27fae6407",
