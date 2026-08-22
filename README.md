@@ -37,7 +37,7 @@
 ### Authentication
 
 * [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) ⭐ 4,332 | 🐛 160 | 🌐 Python | 📅 2026-08-17: A JSON Web Token authentication plugin for the Django REST Framework
-* [django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit) ⭐ 3,333 | 🐛 47 | 🌐 Python | 📅 2026-08-21: Django OAuth Toolkit can help you providing out of the box all the endpoints, data and logic needed to add OAuth2 capabilities to your Django projects. Django OAuth Toolkit makes extensive use of the excellent OAuthLib, so that everything is rfc-compliant.
+* [django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit) ⭐ 3,333 | 🐛 37 | 🌐 Python | 📅 2026-08-22: Django OAuth Toolkit can help you providing out of the box all the endpoints, data and logic needed to add OAuth2 capabilities to your Django projects. Django OAuth Toolkit makes extensive use of the excellent OAuthLib, so that everything is rfc-compliant.
 * [djoser](https://github.com/sunscrapers/djoser) ⭐ 2,682 | 🐛 200 | 🌐 Python | 📅 2026-08-01: REST implementation of Django authentication system
 * [dj-rest-auth](https://github.com/jazzband/dj-rest-auth) ⭐ 1,866 | 🐛 259 | 🌐 Python | 📅 2026-06-05: A set of REST API endpoints to handle User Registration and Authentication tasks
 * [django-rest-framework-social-oauth2](https://github.com/PhilipGarnero/django-rest-framework-social-oauth2) ⭐ 1,065 | 🐛 44 | 🌐 Python | 📅 2026-04-17: python-social-auth and oauth2 support for django-rest-framework
@@ -61,7 +61,7 @@
 ### Documentation
 
 * [drf-yasg](https://github.com/axnsan12/drf-yasg) ⭐ 3,545 | 🐛 243 | 🌐 Python | 📅 2026-08-21: Alternative OpenAPI Generator for Django REST Framework with response schema support
-* [drf-spectacular](https://github.com/tfranzel/drf-spectacular) ⭐ 2,854 | 🐛 203 | 🌐 Python | 📅 2026-08-21: Sane and flexible OpenAPI 3.0 schema generation for Django REST framework
+* [drf-spectacular](https://github.com/tfranzel/drf-spectacular) ⭐ 2,855 | 🐛 203 | 🌐 Python | 📅 2026-08-21: Sane and flexible OpenAPI 3.0 schema generation for Django REST framework
 * [drf-openapi-tester](https://github.com/snok/drf-openapi-tester) ⚠️ Archived: Test drf test responses against OpenAPI/Swagger documentation.
 
 ### Routing
@@ -80,7 +80,7 @@
 
 ### Visualization
 
-* [django-rest-pandas](https://github.com/wq/django-rest-pandas) ⭐ 1,277 | 🐛 9 | 🌐 Python | 📅 2026-02-10: Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel)
+* [django-rest-pandas](https://github.com/wq/django-rest-pandas) ⭐ 1,276 | 🐛 9 | 🌐 Python | 📅 2026-02-10: Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel)
 * [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis) ⭐ 1,127 | 🐛 30 | 🌐 Python | 📅 2026-08-14: Geographic add-ons for Django REST Framework
 * [drf-renderer-xlsx](https://github.com/wharton/drf-renderer-xlsx) ⭐ 240 | 🐛 10 | 🌐 Python | 📅 2026-08-19: Allows you to create XLSX for Django REST Framework
 
@@ -92,7 +92,7 @@
 ### Filtering
 
 * [django-rest-framework-filters](https://github.com/philipn/django-rest-framework-filters) ⭐ 853 | 🐛 26 | 🌐 Python | 📅 2023-11-25: Better filtering.
-* [django-url-filter](https://github.com/miki725/django-url-filter) ⭐ 332 | 🐛 47 | 🌐 Python | 📅 2024-05-03: Django URL Filter provides a safe way to filter data via human-friendly URLs.
+* [django-url-filter](https://github.com/miki725/django-url-filter) ⭐ 331 | 🐛 47 | 🌐 Python | 📅 2024-05-03: Django URL Filter provides a safe way to filter data via human-friendly URLs.
 * [drf-url-filters](https://github.com/manjitkumar/drf-url-filters) ⭐ 175 | 🐛 8 | 🌐 Python | 📅 2023-06-20: A django app to apply filters on drf querysets using query params with validations using voluptuous.
 * [django-rest-framework-word-search-filter](https://github.com/trollknurr/django-rest-framework-word-search-filter) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2020-10-12: Full word search filter backend for Django REST Framework. DB backend independent.
 
@@ -103,7 +103,7 @@
 
 ### Renderers and Parsers
 
-* [django-rest-pandas](https://github.com/wq/django-rest-pandas) ⭐ 1,277 | 🐛 9 | 🌐 Python | 📅 2026-02-10: Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel).
+* [django-rest-pandas](https://github.com/wq/django-rest-pandas) ⭐ 1,276 | 🐛 9 | 🌐 Python | 📅 2026-02-10: Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel).
 * [djangorestframework-camel-case](https://github.com/vbabiy/djangorestframework-camel-case) ⭐ 674 | 🐛 43 | 🌐 Python | 📅 2026-07-20: Camel case JSON support for Django REST framework.
 * [django-rest-framework-csv](https://github.com/mjumbewu/django-rest-framework-csv) ⭐ 368 | 🐛 32 | 🌐 Python | 📅 2025-10-13: CSV Tools for Django REST Framework.
 * [drf-excel](https://github.com/wharton/drf-excel) ⭐ 240 | 🐛 10 | 🌐 Python | 📅 2026-08-19: An XLSX spreadsheet renderer for Django REST Framework.
@@ -172,4 +172,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._

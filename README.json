@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 10176112,
                 "language": "Python",
-                "last_commit": "2026-08-21T20:51:10Z",
+                "last_commit": "2026-08-22T05:58:01Z",
                 "owner": "django-oauth",
                 "repo": "django-oauth-toolkit",
                 "stars": 3333
@@ -301,7 +301,7 @@
                 "last_commit": "2026-08-21T19:33:04Z",
                 "owner": "tfranzel",
                 "repo": "drf-spectacular",
-                "stars": 2854
+                "stars": 2855
               }
             },
             {
@@ -450,7 +450,7 @@
                 "last_commit": "2026-02-10T18:32:25Z",
                 "owner": "wq",
                 "repo": "django-rest-pandas",
-                "stars": 1277
+                "stars": 1276
               }
             },
             {
@@ -554,7 +554,7 @@
                 "last_commit": "2024-05-03T10:21:32Z",
                 "owner": "miki725",
                 "repo": "django-url-filter",
-                "stars": 332
+                "stars": 331
               }
             },
             {
@@ -643,7 +643,7 @@
                 "last_commit": "2026-02-10T18:32:25Z",
                 "owner": "wq",
                 "repo": "django-rest-pandas",
-                "stars": 1277
+                "stars": 1276
               }
             },
             {
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T21:01:53.019Z",
+    "last_updated": "2026-08-22T21:00:38.638Z",
     "original_repository": "nioperas06/awesome-django-rest-framework",
     "original_repository_id": 96670275,
     "original_repository_sha": "4afbf0e98fa507bd38d73e47202983a27fae6407",
