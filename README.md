@@ -36,11 +36,11 @@
 
 ### Authentication
 
-* [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) ⭐ 4,332 | 🐛 160 | 🌐 Python | 📅 2026-08-17: A JSON Web Token authentication plugin for the Django REST Framework
-* [django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit) ⭐ 3,333 | 🐛 37 | 🌐 Python | 📅 2026-08-22: Django OAuth Toolkit can help you providing out of the box all the endpoints, data and logic needed to add OAuth2 capabilities to your Django projects. Django OAuth Toolkit makes extensive use of the excellent OAuthLib, so that everything is rfc-compliant.
+* [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) ⭐ 4,333 | 🐛 160 | 🌐 Python | 📅 2026-08-17: A JSON Web Token authentication plugin for the Django REST Framework
+* [django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit) ⭐ 3,333 | 🐛 37 | 🌐 Python | 📅 2026-08-23: Django OAuth Toolkit can help you providing out of the box all the endpoints, data and logic needed to add OAuth2 capabilities to your Django projects. Django OAuth Toolkit makes extensive use of the excellent OAuthLib, so that everything is rfc-compliant.
 * [djoser](https://github.com/sunscrapers/djoser) ⭐ 2,682 | 🐛 200 | 🌐 Python | 📅 2026-08-01: REST implementation of Django authentication system
 * [dj-rest-auth](https://github.com/jazzband/dj-rest-auth) ⭐ 1,866 | 🐛 259 | 🌐 Python | 📅 2026-06-05: A set of REST API endpoints to handle User Registration and Authentication tasks
-* [django-rest-framework-social-oauth2](https://github.com/PhilipGarnero/django-rest-framework-social-oauth2) ⭐ 1,065 | 🐛 44 | 🌐 Python | 📅 2026-04-17: python-social-auth and oauth2 support for django-rest-framework
+* [django-rest-framework-social-oauth2](https://github.com/PhilipGarnero/django-rest-framework-social-oauth2) ⭐ 1,066 | 🐛 44 | 🌐 Python | 📅 2026-04-17: python-social-auth and oauth2 support for django-rest-framework
 * [django-rest-registration](https://github.com/apragacz/django-rest-registration) ⭐ 548 | 🐛 14 | 🌐 Python | 📅 2026-07-15: User registration and authentication REST API, based on Django REST Framework.
 * [django-rest-passwordreset](https://github.com/anx-ckreuzberger/django-rest-passwordreset) ⭐ 435 | 🐛 29 | 🌐 Python | 📅 2026-06-30: Password reset endpoints that hook into Django Authentication system
 * [djangorest-routes](https://github.com/israelabraham/djangorest-routes) ⚠️ Archived: Djangorest Routes is an authentication library strongly built in Python that serves the purpose of quick bootstrapping a project's authentication infrastructure.
@@ -80,7 +80,7 @@
 
 ### Visualization
 
-* [django-rest-pandas](https://github.com/wq/django-rest-pandas) ⭐ 1,276 | 🐛 9 | 🌐 Python | 📅 2026-02-10: Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel)
+* [django-rest-pandas](https://github.com/wq/django-rest-pandas) ⭐ 1,277 | 🐛 9 | 🌐 Python | 📅 2026-02-10: Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel)
 * [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis) ⭐ 1,127 | 🐛 30 | 🌐 Python | 📅 2026-08-14: Geographic add-ons for Django REST Framework
 * [drf-renderer-xlsx](https://github.com/wharton/drf-renderer-xlsx) ⭐ 240 | 🐛 10 | 🌐 Python | 📅 2026-08-19: Allows you to create XLSX for Django REST Framework
 
@@ -103,7 +103,7 @@
 
 ### Renderers and Parsers
 
-* [django-rest-pandas](https://github.com/wq/django-rest-pandas) ⭐ 1,276 | 🐛 9 | 🌐 Python | 📅 2026-02-10: Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel).
+* [django-rest-pandas](https://github.com/wq/django-rest-pandas) ⭐ 1,277 | 🐛 9 | 🌐 Python | 📅 2026-02-10: Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel).
 * [djangorestframework-camel-case](https://github.com/vbabiy/djangorestframework-camel-case) ⭐ 674 | 🐛 43 | 🌐 Python | 📅 2026-07-20: Camel case JSON support for Django REST framework.
 * [django-rest-framework-csv](https://github.com/mjumbewu/django-rest-framework-csv) ⭐ 368 | 🐛 32 | 🌐 Python | 📅 2025-10-13: CSV Tools for Django REST Framework.
 * [drf-excel](https://github.com/wharton/drf-excel) ⭐ 240 | 🐛 10 | 🌐 Python | 📅 2026-08-19: An XLSX spreadsheet renderer for Django REST Framework.
@@ -172,4 +172,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
