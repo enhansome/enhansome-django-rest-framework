@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 90401750,
                 "language": "Python",
-                "last_commit": "2026-08-17T17:51:09Z",
+                "last_commit": "2026-08-24T17:41:39Z",
                 "owner": "jazzband",
                 "repo": "djangorestframework-simplejwt",
                 "stars": 4333
@@ -484,7 +484,7 @@
                 "archived": false,
                 "id": 7987095,
                 "language": "Python",
-                "last_commit": "2026-08-14T21:48:12Z",
+                "last_commit": "2026-08-24T14:25:13Z",
                 "owner": "openwisp",
                 "repo": "django-rest-framework-gis",
                 "stars": 1127
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:11:41.672Z",
+    "last_updated": "2026-08-24T21:10:02.465Z",
     "original_repository": "nioperas06/awesome-django-rest-framework",
     "original_repository_id": 96670275,
     "original_repository_sha": "4afbf0e98fa507bd38d73e47202983a27fae6407",
