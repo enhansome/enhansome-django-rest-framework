@@ -62,7 +62,7 @@
                 "last_commit": "2026-06-05T17:02:00Z",
                 "owner": "iMerica",
                 "repo": "dj-rest-auth",
-                "stars": 1866
+                "stars": 1867
               }
             },
             {
@@ -283,7 +283,7 @@
                 "archived": false,
                 "id": 112461400,
                 "language": "Python",
-                "last_commit": "2026-08-21T10:55:59Z",
+                "last_commit": "2026-08-24T04:39:22Z",
                 "owner": "axnsan12",
                 "repo": "drf-yasg",
                 "stars": 3545
@@ -323,6 +323,28 @@
           "description": null,
           "node_type": "group",
           "title": "Documentation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "drf-nested-routers",
+              "description": "Nested Routers for Django Rest Framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13226530,
+                "language": "Python",
+                "last_commit": "2026-08-15T03:21:59Z",
+                "owner": "alanjds",
+                "repo": "drf-nested-routers",
+                "stars": 1800
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Routing"
         },
         {
           "children": [
@@ -903,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:00:01.685Z",
+    "last_updated": "2026-08-24T14:11:41.672Z",
     "original_repository": "nioperas06/awesome-django-rest-framework",
     "original_repository_id": 96670275,
     "original_repository_sha": "4afbf0e98fa507bd38d73e47202983a27fae6407",
