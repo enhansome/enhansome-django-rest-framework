@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-01T20:17:04Z",
                 "owner": "sunscrapers",
                 "repo": "djoser",
-                "stars": 2682
+                "stars": 2681
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-06-05T17:02:00Z",
                 "owner": "iMerica",
                 "repo": "dj-rest-auth",
-                "stars": 1867
+                "stars": 1868
               }
             },
             {
@@ -499,7 +499,7 @@
                 "archived": false,
                 "id": 105686080,
                 "language": "Python",
-                "last_commit": "2026-08-19T00:02:40Z",
+                "last_commit": "2026-08-25T16:24:46Z",
                 "owner": "django-commons",
                 "repo": "drf-excel",
                 "stars": 240
@@ -707,7 +707,7 @@
                 "archived": false,
                 "id": 105686080,
                 "language": "Python",
-                "last_commit": "2026-08-19T00:02:40Z",
+                "last_commit": "2026-08-25T16:24:46Z",
                 "owner": "django-commons",
                 "repo": "drf-excel",
                 "stars": 240
@@ -807,7 +807,7 @@
                 "last_commit": "2026-08-06T15:27:10Z",
                 "owner": "chibisov",
                 "repo": "drf-extensions",
-                "stars": 1551
+                "stars": 1552
               }
             },
             {
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:04:40.583Z",
+    "last_updated": "2026-08-25T21:04:30.555Z",
     "original_repository": "nioperas06/awesome-django-rest-framework",
     "original_repository_id": 96670275,
     "original_repository_sha": "4afbf0e98fa507bd38d73e47202983a27fae6407",
