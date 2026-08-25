@@ -301,7 +301,7 @@
                 "last_commit": "2026-08-21T19:33:04Z",
                 "owner": "tfranzel",
                 "repo": "drf-spectacular",
-                "stars": 2855
+                "stars": 2856
               }
             },
             {
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:10:02.465Z",
+    "last_updated": "2026-08-25T06:04:40.583Z",
     "original_repository": "nioperas06/awesome-django-rest-framework",
     "original_repository_id": 96670275,
     "original_repository_sha": "4afbf0e98fa507bd38d73e47202983a27fae6407",
