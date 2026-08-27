@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T17:41:39Z",
                 "owner": "jazzband",
                 "repo": "djangorestframework-simplejwt",
-                "stars": 4333
+                "stars": 4334
               }
             },
             {
@@ -283,7 +283,7 @@
                 "archived": false,
                 "id": 112461400,
                 "language": "Python",
-                "last_commit": "2026-08-24T04:39:22Z",
+                "last_commit": "2026-08-26T19:24:27Z",
                 "owner": "axnsan12",
                 "repo": "drf-yasg",
                 "stars": 3545
@@ -301,7 +301,7 @@
                 "last_commit": "2026-08-21T19:33:04Z",
                 "owner": "tfranzel",
                 "repo": "drf-spectacular",
-                "stars": 2856
+                "stars": 2857
               }
             },
             {
@@ -338,7 +338,7 @@
                 "last_commit": "2026-08-15T03:21:59Z",
                 "owner": "alanjds",
                 "repo": "drf-nested-routers",
-                "stars": 1800
+                "stars": 1799
               }
             }
           ],
@@ -484,7 +484,7 @@
                 "archived": false,
                 "id": 7987095,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:25:13Z",
+                "last_commit": "2026-08-26T21:25:14Z",
                 "owner": "openwisp",
                 "repo": "django-rest-framework-gis",
                 "stars": 1127
@@ -499,7 +499,7 @@
                 "archived": false,
                 "id": 105686080,
                 "language": "Python",
-                "last_commit": "2026-08-25T16:24:46Z",
+                "last_commit": "2026-08-26T09:53:11Z",
                 "owner": "django-commons",
                 "repo": "drf-excel",
                 "stars": 240
@@ -707,7 +707,7 @@
                 "archived": false,
                 "id": 105686080,
                 "language": "Python",
-                "last_commit": "2026-08-25T16:24:46Z",
+                "last_commit": "2026-08-26T09:53:11Z",
                 "owner": "django-commons",
                 "repo": "drf-excel",
                 "stars": 240
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:04:30.555Z",
+    "last_updated": "2026-08-27T00:15:36.612Z",
     "original_repository": "nioperas06/awesome-django-rest-framework",
     "original_repository_id": 96670275,
     "original_repository_sha": "4afbf0e98fa507bd38d73e47202983a27fae6407",
