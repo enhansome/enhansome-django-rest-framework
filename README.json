@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-23T07:23:35Z",
                 "owner": "django-oauth",
                 "repo": "django-oauth-toolkit",
-                "stars": 3333
+                "stars": 3334
               }
             },
             {
@@ -807,7 +807,7 @@
                 "last_commit": "2026-08-06T15:27:10Z",
                 "owner": "chibisov",
                 "repo": "drf-extensions",
-                "stars": 1552
+                "stars": 1553
               }
             },
             {
@@ -925,9 +925,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:15:36.612Z",
-    "original_repository": "nioperas06/awesome-django-rest-framework",
-    "original_repository_id": 96670275,
+    "last_updated": "2026-08-27T11:35:40.273Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 96670275,
+      "language": null,
+      "last_commit": "2026-07-03T05:11:23Z",
+      "owner": "nioperas06",
+      "repo": "awesome-django-rest-framework",
+      "stars": 1472
+    },
     "original_repository_sha": "4afbf0e98fa507bd38d73e47202983a27fae6407",
     "enhanced_repository": "enhansome/enhansome-django-rest-framework",
     "enhanced_repository_description": null,
