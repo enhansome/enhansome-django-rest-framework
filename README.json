@@ -18,7 +18,8 @@
                 "owner": "jazzband",
                 "repo": "djangorestframework-simplejwt",
                 "stars": 4334
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "django-oauth",
                 "repo": "django-oauth-toolkit",
                 "stars": 3334
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "sunscrapers",
                 "repo": "djoser",
                 "stars": 2681
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "iMerica",
                 "repo": "dj-rest-auth",
                 "stars": 1868
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "RealmTeam",
                 "repo": "django-rest-framework-social-oauth2",
                 "stars": 1066
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "apragacz",
                 "repo": "django-rest-registration",
                 "stars": 548
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "anexia-it",
                 "repo": "django-rest-passwordreset",
                 "stars": 435
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "aybruhm",
                 "repo": "djangorest-routes",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             }
           ],
           "description": null,
@@ -145,7 +153,8 @@
                 "owner": "florimondmanca",
                 "repo": "djangorestframework-api-key",
                 "stars": 742
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "rsinger86",
                 "repo": "drf-access-policy",
                 "stars": 513
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "dbkaplan",
                 "repo": "dry-rest-permissions",
                 "stars": 370
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "caxap",
                 "repo": "rest_condition",
                 "stars": 279
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "computer-lab",
                 "repo": "django-rest-framework-roles",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "allisson",
                 "repo": "django-rest-framework-role-filters",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "niwinz",
                 "repo": "djangorestframework-composed-permissions",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "drf-psq",
                 "repo": "drf-psq",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "axioms-io",
                 "repo": "axioms-drf-py",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             }
           ],
           "description": null,
@@ -287,7 +304,8 @@
                 "owner": "axnsan12",
                 "repo": "drf-yasg",
                 "stars": 3545
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -302,7 +320,8 @@
                 "owner": "tfranzel",
                 "repo": "drf-spectacular",
                 "stars": 2857
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -317,7 +336,8 @@
                 "owner": "snok",
                 "repo": "drf-openapi-tester",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             }
           ],
           "description": null,
@@ -339,7 +359,8 @@
                 "owner": "alanjds",
                 "repo": "drf-nested-routers",
                 "stars": 1799
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             }
           ],
           "description": null,
@@ -361,7 +382,8 @@
                 "owner": "beda-software",
                 "repo": "drf-writable-nested",
                 "stars": 1140
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -376,7 +398,8 @@
                 "owner": "rsinger86",
                 "repo": "drf-flex-fields",
                 "stars": 767
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -391,7 +414,8 @@
                 "owner": "Hipo",
                 "repo": "drf-extra-fields",
                 "stars": 688
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -406,7 +430,8 @@
                 "owner": "heywbj",
                 "repo": "django-rest-framework-recursive",
                 "stars": 366
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -421,7 +446,8 @@
                 "owner": "khaledsukkar2",
                 "repo": "drf-shapeless-serializers",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -436,7 +462,8 @@
                 "owner": "null-none",
                 "repo": "drf-errors",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -451,7 +478,8 @@
                 "owner": "gripep",
                 "repo": "drf-simple-api-errors",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             }
           ],
           "description": null,
@@ -473,7 +501,8 @@
                 "owner": "wq",
                 "repo": "django-rest-pandas",
                 "stars": 1277
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -488,7 +517,8 @@
                 "owner": "openwisp",
                 "repo": "django-rest-framework-gis",
                 "stars": 1127
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -503,7 +533,8 @@
                 "owner": "django-commons",
                 "repo": "drf-excel",
                 "stars": 240
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             }
           ],
           "description": null,
@@ -525,7 +556,8 @@
                 "owner": "lingster",
                 "repo": "drf-api-tracking",
                 "stars": 287
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -540,7 +572,8 @@
                 "owner": "Raekkeri",
                 "repo": "django-requestlogs",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             }
           ],
           "description": null,
@@ -562,7 +595,8 @@
                 "owner": "philipn",
                 "repo": "django-rest-framework-filters",
                 "stars": 853
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -577,7 +611,8 @@
                 "owner": "miki725",
                 "repo": "django-url-filter",
                 "stars": 331
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -592,7 +627,8 @@
                 "owner": "manjitkumar",
                 "repo": "drf-url-filters",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -607,7 +643,8 @@
                 "owner": "trollknurr",
                 "repo": "django-rest-framework-word-search-filter",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             }
           ],
           "description": null,
@@ -629,7 +666,8 @@
                 "owner": "tbeadle",
                 "repo": "django-rest-framework-link-header-pagination",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -644,7 +682,8 @@
                 "owner": "tuffnatty",
                 "repo": "drf-proxy-pagination",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             }
           ],
           "description": null,
@@ -666,7 +705,8 @@
                 "owner": "wq",
                 "repo": "django-rest-pandas",
                 "stars": 1277
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -681,7 +721,8 @@
                 "owner": "vbabiy",
                 "repo": "djangorestframework-camel-case",
                 "stars": 674
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -696,7 +737,8 @@
                 "owner": "mjumbewu",
                 "repo": "django-rest-framework-csv",
                 "stars": 368
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -711,7 +753,8 @@
                 "owner": "django-commons",
                 "repo": "drf-excel",
                 "stars": 240
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -726,7 +769,8 @@
                 "owner": "gizmag",
                 "repo": "drf-ujson-renderer",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -741,7 +785,8 @@
                 "owner": "jpadilla",
                 "repo": "django-rest-framework-xml",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -756,7 +801,8 @@
                 "owner": "mypebble",
                 "repo": "rest-framework-latex",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -771,7 +817,8 @@
                 "owner": "jpadilla",
                 "repo": "django-rest-framework-yaml",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -786,7 +833,8 @@
                 "owner": "jpadilla",
                 "repo": "django-rest-framework-jsonp",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             }
           ],
           "description": null,
@@ -808,7 +856,8 @@
                 "owner": "chibisov",
                 "repo": "drf-extensions",
                 "stars": 1553
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -823,7 +872,8 @@
                 "owner": "django-json-api",
                 "repo": "django-rest-framework-json-api",
                 "stars": 1252
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -838,7 +888,8 @@
                 "owner": "yezyilomo",
                 "repo": "django-restql",
                 "stars": 625
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -853,7 +904,8 @@
                 "owner": "Brobin",
                 "repo": "drf-generators",
                 "stars": 349
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -868,7 +920,8 @@
                 "owner": "py-universe",
                 "repo": "django-rest-cli",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -883,7 +936,8 @@
                 "owner": "gilsondev",
                 "repo": "django-rest-localflavor",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -898,7 +952,8 @@
                 "owner": "jinkanhq",
                 "repo": "django-rest-tsg",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             },
             {
               "node_type": "item",
@@ -913,7 +968,8 @@
                 "owner": "amikrop",
                 "repo": "drf-sendables",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T04:31:06.292Z"
             }
           ],
           "description": null,
@@ -925,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:35:40.273Z",
+    "last_updated": "2026-08-28T04:31:06.292Z",
     "original_repository_info": {
       "archived": false,
       "id": 96670275,

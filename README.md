@@ -72,7 +72,7 @@
 
 * [drf-writable-nested](https://github.com/beda-software/drf-writable-nested) ⭐ 1,140 | 🐛 70 | 🌐 Python | 📅 2025-09-15: Writable nested model serializer for Django REST Framework
 * [drf-flex-fields](https://github.com/rsinger86/drf-flex-fields) ⭐ 767 | 🐛 33 | 🌐 Python | 📅 2023-10-16: Dynamically set fields and expand nested resources in Django REST Framework serializers.
-* [drf-extra-fields](https://github.com/Hipo/drf-extra-fields/) ⭐ 688 | 🐛 17 | 🌐 Python | 📅 2025-08-26: Extra fields for Django REST framework.
+* [drf-extra-fields](https://github.com/Hipo/drf-extra-fields/) ⭐ 688 | 🐛 18 | 🌐 Python | 📅 2025-08-26: Extra fields for Django REST framework.
 * [django-rest-framework-recursive](https://github.com/heywbj/django-rest-framework-recursive/) ⭐ 366 | 🐛 6 | 🌐 Python | 📅 2024-08-14: Recursive Serialization for Django REST framework
 * [drf-shapeless-serializers](https://github.com/khaledsukkar2/drf-shapeless-serializers) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2026-01-12: provides powerful mixins that extend Django REST Framework's serializers with dynamic configuration capabilities so you can select fields at runtime, rename output keys dynamically, modify field attributes per-request, add and configure nested relationships on-the-fly and apply conditional field logic.
 * [drf-errors](https://github.com/null-none/drf-errors/) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2022-09-16: Extension for Django REST framework error display.
@@ -172,4 +172,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
