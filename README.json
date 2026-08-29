@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JSON Web Token authentication plugin for the Django REST Framework.",
+                "homepage": "https://django-rest-framework-simplejwt.readthedocs.io/",
                 "id": 90401750,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T17:41:39Z",
+                "open_issues": 160,
                 "owner": "jazzband",
                 "repo": "djangorestframework-simplejwt",
-                "stars": 4334
+                "stars": 4334,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -28,12 +33,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OAuth2 goodies for the Djangonauts!",
+                "homepage": "https://django-oauth-toolkit.readthedocs.io",
                 "id": 10176112,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-23T07:23:35Z",
+                "open_issues": 42,
                 "owner": "django-oauth",
                 "repo": "django-oauth-toolkit",
-                "stars": 3334
+                "stars": 3334,
+                "topics": [
+                  "django",
+                  "oauth2",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -44,12 +58,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "REST implementation of Django authentication system.",
+                "homepage": null,
                 "id": 24642075,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-01T20:17:04Z",
+                "open_issues": 201,
                 "owner": "sunscrapers",
                 "repo": "djoser",
-                "stars": 2681
+                "stars": 2681,
+                "topics": [
+                  "authentication",
+                  "developer-tools",
+                  "djoser",
+                  "python",
+                  "rest-api"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -60,12 +85,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Authentication for Django Rest Framework",
+                "homepage": "https://dj-rest-auth.readthedocs.io/en/latest/index.html",
                 "id": 243840407,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-05T17:02:00Z",
+                "open_issues": 259,
                 "owner": "iMerica",
                 "repo": "dj-rest-auth",
-                "stars": 1868
+                "stars": 1868,
+                "topics": [
+                  "authentication",
+                  "django",
+                  "django-rest-framework",
+                  "jwt",
+                  "python",
+                  "rest-api"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -76,12 +113,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "python-social-auth and oauth2 support for django-rest-framework",
+                "homepage": null,
                 "id": 31625947,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-17T20:24:57Z",
+                "open_issues": 44,
                 "owner": "RealmTeam",
                 "repo": "django-rest-framework-social-oauth2",
-                "stars": 1066
+                "stars": 1066,
+                "topics": [
+                  "django",
+                  "django-rest-framework",
+                  "oauth2",
+                  "python",
+                  "python-social-auth"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -92,12 +140,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "User-related REST API based on the awesome Django REST Framework",
+                "homepage": "https://django-rest-registration.readthedocs.io/",
                 "id": 48646785,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-15T22:17:12Z",
+                "open_issues": 14,
                 "owner": "apragacz",
                 "repo": "django-rest-registration",
-                "stars": 548
+                "stars": 548,
+                "topics": [
+                  "auth",
+                  "authentication",
+                  "change-password",
+                  "django",
+                  "django-application",
+                  "django-rest-framework",
+                  "django-rest-registration",
+                  "drf",
+                  "login",
+                  "python-3",
+                  "register",
+                  "registration",
+                  "reset-password",
+                  "rest-api",
+                  "sign-in",
+                  "sign-up",
+                  "signin",
+                  "signup"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -108,12 +180,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An extension of django rest framework, providing a configurable password reset strategy",
+                "homepage": null,
                 "id": 84864340,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-30T10:52:41Z",
+                "open_issues": 29,
                 "owner": "anexia-it",
                 "repo": "django-rest-passwordreset",
-                "stars": 435
+                "stars": 435,
+                "topics": [
+                  "django",
+                  "django-rest-framework",
+                  "hacktoberfest",
+                  "password-reset"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -124,12 +206,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🔐 Authentication routes as a service. ",
+                "homepage": null,
                 "id": 465215415,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-05T21:32:26Z",
+                "open_issues": 3,
                 "owner": "aybruhm",
                 "repo": "djangorest-routes",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "django",
+                  "django-rest-framework",
+                  "django-rest-routes",
+                  "djangorest-routes",
+                  "hacktoberfest",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             }
@@ -147,12 +241,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔐 API key permissions for Django REST Framework",
+                "homepage": "https://florimondmanca.github.io/djangorestframework-api-key/",
                 "id": 142661285,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-04T08:39:25Z",
+                "open_issues": 18,
                 "owner": "florimondmanca",
                 "repo": "djangorestframework-api-key",
-                "stars": 742
+                "stars": 742,
+                "topics": [
+                  "api-key",
+                  "django-rest-framework",
+                  "permissions",
+                  "python",
+                  "security",
+                  "web-api"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -163,12 +269,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Declarative access policies/permissions modeled after AWS' IAM policies.",
+                "homepage": "https://rsinger86.github.io/drf-access-policy/",
                 "id": 183973153,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-20T08:07:51Z",
+                "open_issues": 28,
                 "owner": "rsinger86",
                 "repo": "drf-access-policy",
-                "stars": 513
+                "stars": 513,
+                "topics": [
+                  "access-control",
+                  "authorization",
+                  "declarative",
+                  "django",
+                  "django-rest-framework",
+                  "iam",
+                  "permissions"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -179,12 +298,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rules based permissions for the Django Rest Framework",
+                "homepage": null,
                 "id": 39894746,
                 "language": "Python",
+                "license": "ISC",
                 "last_commit": "2022-12-26T20:02:19Z",
+                "open_issues": 23,
                 "owner": "dbkaplan",
                 "repo": "dry-rest-permissions",
-                "stars": 370
+                "stars": 370,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -195,12 +319,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Complex permissions flow for django-rest-framework (http://django-rest-framework.org).",
+                "homepage": null,
                 "id": 14925611,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-01-04T15:23:56Z",
+                "open_issues": 7,
                 "owner": "caxap",
                 "repo": "rest_condition",
-                "stars": 279
+                "stars": 279,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -211,12 +340,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parameterizes Django REST Framework methods over user-defined roles",
+                "homepage": null,
                 "id": 65865664,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2019-07-10T15:17:48Z",
+                "open_issues": 5,
                 "owner": "computer-lab",
                 "repo": "django-rest-framework-roles",
-                "stars": 150
+                "stars": 150,
+                "topics": [
+                  "django",
+                  "django-rest-framework",
+                  "roles"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -227,12 +365,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple role filtering for django-rest-framework",
+                "homepage": null,
                 "id": 120088976,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-06T13:34:34Z",
+                "open_issues": 0,
                 "owner": "allisson",
                 "repo": "django-rest-framework-role-filters",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "django",
+                  "python",
+                  "rest-framework",
+                  "role"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -243,12 +391,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple way to define complex permissions for django-rest-framework",
+                "homepage": null,
                 "id": 12436383,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-03-17T22:18:31Z",
+                "open_issues": 1,
                 "owner": "niwinz",
                 "repo": "djangorestframework-composed-permissions",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -259,12 +412,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The simplest and most general way to manage action-based permissions, serializers, and querysets dependent on permission-based rules for the Django REST framework!",
+                "homepage": null,
                 "id": 277336162,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-02-26T18:12:35Z",
+                "open_issues": 1,
                 "owner": "drf-psq",
                 "repo": "drf-psq",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "django",
+                  "django-extensions",
+                  "django-permissions",
+                  "django-queries",
+                  "django-rest-framework",
+                  "serializer-django"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -275,12 +440,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OAuth2/OIDC authentication and authorization for Django Rest Framework (DRF). Supports authentication and claim-based fine-grained authorization (scopes, roles, permissions) using JWT tokens.",
+                "homepage": "https://axioms-drf-py.abhishek-tiwari.com/",
                 "id": 242898992,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-24T04:57:35Z",
+                "open_issues": 0,
                 "owner": "axioms-io",
                 "repo": "axioms-drf-py",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             }
@@ -298,12 +468,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.",
+                "homepage": "https://drf-yasg.readthedocs.io/en/stable/",
                 "id": 112461400,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T19:24:27Z",
+                "open_issues": 242,
                 "owner": "axnsan12",
                 "repo": "drf-yasg",
-                "stars": 3545
+                "stars": 3545,
+                "topics": [
+                  "coreapi",
+                  "django",
+                  "django-rest-framework",
+                  "django-rest-swagger",
+                  "documentation-generator",
+                  "openapi",
+                  "openapi-specification",
+                  "redoc",
+                  "rest",
+                  "rest-api",
+                  "swagger",
+                  "swagger-codegen",
+                  "swagger-ui"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -314,12 +503,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sane and flexible OpenAPI 3 schema generation for Django REST framework.",
+                "homepage": "https://drf-spectacular.readthedocs.io",
                 "id": 244234763,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-21T19:33:04Z",
+                "open_issues": 203,
                 "owner": "tfranzel",
                 "repo": "drf-spectacular",
-                "stars": 2857
+                "stars": 2857,
+                "topics": [
+                  "django",
+                  "documentation-generator",
+                  "drf",
+                  "openapi-generator",
+                  "openapi-specification",
+                  "openapi3",
+                  "rest-api",
+                  "rest-framework",
+                  "swagger"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -330,12 +534,30 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Test utility for validating OpenAPI documentation",
+                "homepage": "https://github.com/snok/django-openapi-tester",
                 "id": 232892108,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-11-19T17:47:20Z",
+                "open_issues": 7,
                 "owner": "snok",
                 "repo": "drf-openapi-tester",
-                "stars": 114
+                "stars": 114,
+                "topics": [
+                  "api",
+                  "api-documentation",
+                  "django",
+                  "django-rest-framework",
+                  "django-test",
+                  "drf",
+                  "openapi",
+                  "openapi-schema",
+                  "openapi3",
+                  "pytest",
+                  "swagger",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             }
@@ -353,12 +575,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nested Routers for Django Rest Framework",
+                "homepage": "https://pypi.org/project/drf-nested-routers/",
                 "id": 13226530,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-15T03:21:59Z",
+                "open_issues": 44,
                 "owner": "alanjds",
                 "repo": "drf-nested-routers",
-                "stars": 1799
+                "stars": 1799,
+                "topics": [
+                  "django",
+                  "django-rest-framework",
+                  "hacktoberfest",
+                  "nested-resources",
+                  "rest"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             }
@@ -376,12 +609,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Writable nested model serializer for Django REST Framework",
+                "homepage": null,
                 "id": 82379726,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-09-15T09:21:09Z",
+                "open_issues": 70,
                 "owner": "beda-software",
                 "repo": "drf-writable-nested",
-                "stars": 1140
+                "stars": 1140,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -392,12 +630,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamically set fields and expand nested resources in Django REST Framework serializers.",
+                "homepage": null,
                 "id": 77425239,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-16T05:55:10Z",
+                "open_issues": 33,
                 "owner": "rsinger86",
                 "repo": "drf-flex-fields",
-                "stars": 767
+                "stars": 767,
+                "topics": [
+                  "django",
+                  "django-rest-framework",
+                  "field-expansion"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -408,12 +655,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra Fields for Django Rest Framework",
+                "homepage": null,
                 "id": 21973580,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-26T13:00:24Z",
+                "open_issues": 18,
                 "owner": "Hipo",
                 "repo": "drf-extra-fields",
-                "stars": 688
+                "stars": 688,
+                "topics": [
+                  "django",
+                  "django-rest-framework"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -424,12 +679,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Recursive Serialization for Django REST framework",
+                "homepage": null,
                 "id": 30250508,
                 "language": "Python",
+                "license": "ISC",
                 "last_commit": "2024-08-14T15:09:15Z",
+                "open_issues": 6,
                 "owner": "heywbj",
                 "repo": "django-rest-framework-recursive",
-                "stars": 366
+                "stars": 366,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -440,12 +700,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamically assemble and shape your Django Rest Framework serializers at runtime.",
+                "homepage": "https://pypi.org/project/drf-shapeless-serializers/",
                 "id": 997354308,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-12T18:31:57Z",
+                "open_issues": 0,
                 "owner": "khaledsukkar2",
                 "repo": "drf-shapeless-serializers",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "django",
+                  "django-rest-framework",
+                  "drf",
+                  "dynamic-serializers",
+                  "python",
+                  "serializers"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -456,12 +728,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extension for Django REST framework error display",
+                "homepage": null,
                 "id": 258304326,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-16T18:50:17Z",
+                "open_issues": 1,
                 "owner": "null-none",
                 "repo": "drf-errors",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "api",
+                  "api-client",
+                  "django",
+                  "drf",
+                  "rest",
+                  "rest-api"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -472,12 +756,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for Django Rest Framework returning consistent, predictable and easy-to-parse API error messages inspired by RFC7807 guidelines.",
+                "homepage": null,
                 "id": 792455455,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-15T14:22:36Z",
+                "open_issues": 0,
                 "owner": "gripep",
                 "repo": "drf-simple-api-errors",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "api",
+                  "django",
+                  "django-rest-framework",
+                  "easy-to-use",
+                  "error-handler",
+                  "error-messages",
+                  "error-response",
+                  "python",
+                  "standard-error"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             }
@@ -495,12 +794,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📊📈 Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel)",
+                "homepage": "https://django-rest-pandas.wq.io/",
                 "id": 15720872,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-10T18:32:25Z",
+                "open_issues": 9,
                 "owner": "wq",
                 "repo": "django-rest-pandas",
-                "stars": 1277
+                "stars": 1277,
+                "topics": [
+                  "chart",
+                  "csv",
+                  "dataviz",
+                  "django",
+                  "django-rest-framework",
+                  "excel",
+                  "pandas",
+                  "rest-api",
+                  "spreadsheet"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -511,12 +825,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Geographic add-ons for Django REST Framework. Maintained by the OpenWISP Project.",
+                "homepage": "http://openwisp.org",
                 "id": 7987095,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T21:25:14Z",
+                "open_issues": 32,
                 "owner": "openwisp",
                 "repo": "django-rest-framework-gis",
-                "stars": 1127
+                "stars": 1127,
+                "topics": [
+                  "django",
+                  "django-rest-framework",
+                  "geojson",
+                  "gis",
+                  "hacktoberfest",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -527,12 +853,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An XLSX spreadsheet renderer for Django REST Framework.",
+                "homepage": null,
                 "id": 105686080,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-26T09:53:11Z",
+                "open_issues": 10,
                 "owner": "django-commons",
                 "repo": "drf-excel",
-                "stars": 240
+                "stars": 240,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             }
@@ -550,12 +881,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fork of aschn/drf-tracking so that we can maintain and release newer versions",
+                "homepage": null,
                 "id": 241950356,
                 "language": "Python",
+                "license": "ISC",
                 "last_commit": "2024-07-26T23:30:58Z",
+                "open_issues": 40,
                 "owner": "lingster",
                 "repo": "drf-api-tracking",
-                "stars": 287
+                "stars": 287,
+                "topics": [
+                  "django",
+                  "drf-tracking",
+                  "hacktoberfest",
+                  "logging",
+                  "python3",
+                  "rest-api"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -566,12 +909,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "django-requestlogs is a package providing middleware and other helpers for audit logging.",
+                "homepage": null,
                 "id": 192197280,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-05T06:11:36Z",
+                "open_issues": 4,
                 "owner": "Raekkeri",
                 "repo": "django-requestlogs",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             }
@@ -589,12 +937,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Better filtering for Django REST Framework",
+                "homepage": null,
                 "id": 15126511,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-25T12:00:14Z",
+                "open_issues": 26,
                 "owner": "philipn",
                 "repo": "django-rest-framework-filters",
-                "stars": 853
+                "stars": 853,
+                "topics": [
+                  "django",
+                  "django-rest-framework"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -605,12 +961,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Django URL Filter provides a safe way to filter data via human-friendly URLs.",
+                "homepage": "http://django-url-filter.readthedocs.io/",
                 "id": 41273555,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-03T10:21:32Z",
+                "open_issues": 47,
                 "owner": "miki725",
                 "repo": "django-url-filter",
-                "stars": 331
+                "stars": 331,
+                "topics": [
+                  "django",
+                  "django-rest-framework",
+                  "filtering",
+                  "url-filter"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -621,12 +987,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A django app to apply filters on drf querysets using query params with validations using voluptuous.",
+                "homepage": "http://www.django-rest-framework.org/api-guide/filtering/#drf-url-filters",
                 "id": 55857140,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-20T05:54:10Z",
+                "open_issues": 8,
                 "owner": "manjitkumar",
                 "repo": "drf-url-filters",
-                "stars": 175
+                "stars": 175,
+                "topics": [
+                  "django",
+                  "drf-url-filters",
+                  "filters",
+                  "python",
+                  "queryset",
+                  "url-filters"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -637,12 +1015,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full word search filter backend for Django REST Framework. DB backend independent",
+                "homepage": null,
                 "id": 35097533,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-10-12T06:26:36Z",
+                "open_issues": 1,
                 "owner": "trollknurr",
                 "repo": "django-rest-framework-word-search-filter",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "filter-backends",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             }
@@ -660,12 +1046,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provide pagination for django-rest-framework using a \"Link\" HTTP header",
+                "homepage": null,
                 "id": 97010697,
                 "language": "Python",
+                "license": "ISC",
                 "last_commit": "2024-07-24T15:49:45Z",
+                "open_issues": 1,
                 "owner": "tbeadle",
                 "repo": "django-rest-framework-link-header-pagination",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -676,12 +1067,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pagination class for Django REST Framework to choose pagination class by query parameter",
+                "homepage": null,
                 "id": 71636006,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-13T16:44:41Z",
+                "open_issues": 3,
                 "owner": "tuffnatty",
                 "repo": "drf-proxy-pagination",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             }
@@ -699,12 +1095,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📊📈 Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel)",
+                "homepage": "https://django-rest-pandas.wq.io/",
                 "id": 15720872,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-10T18:32:25Z",
+                "open_issues": 9,
                 "owner": "wq",
                 "repo": "django-rest-pandas",
-                "stars": 1277
+                "stars": 1277,
+                "topics": [
+                  "chart",
+                  "csv",
+                  "dataviz",
+                  "django",
+                  "django-rest-framework",
+                  "excel",
+                  "pandas",
+                  "rest-api",
+                  "spreadsheet"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -715,12 +1126,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Camel case JSON support for Django REST framework.",
+                "homepage": null,
                 "id": 15352158,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-20T16:12:36Z",
+                "open_issues": 43,
                 "owner": "vbabiy",
                 "repo": "djangorestframework-camel-case",
-                "stars": 674
+                "stars": 674,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -731,12 +1147,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CSV Tools for Django REST Framework",
+                "homepage": null,
                 "id": 7607807,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2025-10-13T01:12:04Z",
+                "open_issues": 32,
                 "owner": "mjumbewu",
                 "repo": "django-rest-framework-csv",
-                "stars": 368
+                "stars": 368,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -747,12 +1168,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An XLSX spreadsheet renderer for Django REST Framework.",
+                "homepage": null,
                 "id": 105686080,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-26T09:53:11Z",
+                "open_issues": 10,
                 "owner": "django-commons",
                 "repo": "drf-excel",
-                "stars": 240
+                "stars": 240,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -763,12 +1189,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Django Rest Framework renderer using ujson",
+                "homepage": null,
                 "id": 14192048,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-03-16T00:33:31Z",
+                "open_issues": 10,
                 "owner": "gizmag",
                 "repo": "drf-ujson-renderer",
-                "stars": 126
+                "stars": 126,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -779,12 +1210,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "XML support for Django REST Framework",
+                "homepage": "http://jpadilla.github.io/django-rest-framework-xml",
                 "id": 27234185,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-09-18T07:22:39Z",
+                "open_issues": 24,
                 "owner": "jpadilla",
                 "repo": "django-rest-framework-xml",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "django",
+                  "django-rest-framework",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -795,12 +1235,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A LaTeX renderer for Django REST Framework",
+                "homepage": null,
                 "id": 59004921,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-06-10T18:02:08Z",
+                "open_issues": 5,
                 "owner": "mypebble",
                 "repo": "rest-framework-latex",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "django",
+                  "django-rest-framework",
+                  "latex",
+                  "latex-renderer",
+                  "pdf",
+                  "rest",
+                  "rest-framework",
+                  "tex"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -811,12 +1265,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "YAML support for Django REST Framework",
+                "homepage": "http://jpadilla.github.io/django-rest-framework-yaml",
                 "id": 27057183,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-04-26T21:45:09Z",
+                "open_issues": 11,
                 "owner": "jpadilla",
                 "repo": "django-rest-framework-yaml",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "django",
+                  "django-rest-framework",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -827,12 +1290,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JSONP support for Django REST Framework",
+                "homepage": "http://jpadilla.github.io/django-rest-framework-jsonp",
                 "id": 27236250,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-12-26T20:15:27Z",
+                "open_issues": 5,
                 "owner": "jpadilla",
                 "repo": "django-rest-framework-jsonp",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "django",
+                  "django-rest-framework",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             }
@@ -850,12 +1322,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DRF-extensions is a collection of custom extensions for Django REST Framework",
+                "homepage": "http://chibisov.github.io/drf-extensions/docs",
                 "id": 11654191,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-06T15:27:10Z",
+                "open_issues": 73,
                 "owner": "chibisov",
                 "repo": "drf-extensions",
-                "stars": 1553
+                "stars": 1553,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -866,12 +1343,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JSON:API support for Django REST framework",
+                "homepage": "https://django-rest-framework-json-api.readthedocs.org/",
                 "id": 21987374,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-02T10:47:52Z",
+                "open_issues": 15,
                 "owner": "django-json-api",
                 "repo": "django-rest-framework-json-api",
-                "stars": 1252
+                "stars": 1252,
+                "topics": [
+                  "django-rest-framework",
+                  "hacktoberfest",
+                  "json-api",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -882,12 +1369,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Turn your API made with Django REST Framework(DRF) into a GraphQL like API.",
+                "homepage": "https://yezyilomo.github.io/django-restql",
                 "id": 179890697,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-13T12:32:56Z",
+                "open_issues": 25,
                 "owner": "yezyilomo",
                 "repo": "django-restql",
-                "stars": 625
+                "stars": 625,
+                "topics": [
+                  "api",
+                  "django-graphene",
+                  "django-graphql",
+                  "django-rest-framework",
+                  "django-restql",
+                  "djangorestframework",
+                  "drf",
+                  "dynamic-fields",
+                  "graphql",
+                  "nested-fields",
+                  "nested-resources"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -898,12 +1402,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":triangular_ruler: Generate Views, Serializers, and Urls for your Django Rest Framework application",
+                "homepage": null,
                 "id": 33523229,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-19T15:37:50Z",
+                "open_issues": 11,
                 "owner": "Brobin",
                 "repo": "drf-generators",
-                "stars": 349
+                "stars": 349,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -914,12 +1423,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scaffold your Django Rest(DRF) projects faster with DR-CLI⚡🚀",
+                "homepage": null,
                 "id": 483978629,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-06-11T17:45:37Z",
+                "open_issues": 1,
                 "owner": "py-universe",
                 "repo": "django-rest-cli",
-                "stars": 117
+                "stars": 117,
+                "topics": [
+                  "developer-tool",
+                  "django",
+                  "python",
+                  "rest-api",
+                  "tooling"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -930,12 +1450,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Country-specific Django helpers, to use in Django Rest Framework",
+                "homepage": null,
                 "id": 45064875,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-12-26T20:15:03Z",
+                "open_issues": 9,
                 "owner": "gilsondev",
                 "repo": "django-rest-localflavor",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -946,12 +1471,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A typescript code generator for Django Rest Framework.",
+                "homepage": null,
                 "id": 432478314,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-31T04:06:22Z",
+                "open_issues": 1,
                 "owner": "jinkanhq",
                 "repo": "django-rest-tsg",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "codegen",
+                  "dataclasses",
+                  "django",
+                  "django-rest-framework",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             },
@@ -962,12 +1498,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "User messages for Django REST Framework",
+                "homepage": null,
                 "id": 761778706,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-07T02:02:46Z",
+                "open_issues": 0,
                 "owner": "amikrop",
                 "repo": "drf-sendables",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
             }
@@ -981,15 +1522,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:55:03.930Z",
+    "last_updated": "2026-08-29T04:32:27.297Z",
     "original_repository_info": {
       "archived": false,
+      "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
+      "homepage": null,
       "id": 96670275,
       "language": null,
+      "license": "GPL-3.0",
       "last_commit": "2026-07-03T05:11:23Z",
+      "open_issues": 1,
       "owner": "nioperas06",
       "repo": "awesome-django-rest-framework",
-      "stars": 1472
+      "stars": 1472,
+      "topics": [
+        "api",
+        "awesome",
+        "awesome-list",
+        "django",
+        "django-authentication",
+        "django-rest",
+        "django-rest-framework",
+        "python",
+        "serialization",
+        "usefull-drf"
+      ]
     },
     "original_repository_sha": "4afbf0e98fa507bd38d73e47202983a27fae6407",
     "enhanced_repository": "enhansome/enhansome-django-rest-framework",
