@@ -67,7 +67,7 @@
                 "open_issues": 201,
                 "owner": "sunscrapers",
                 "repo": "djoser",
-                "stars": 2681,
+                "stars": 2680,
                 "topics": [
                   "authentication",
                   "developer-tools",
@@ -473,7 +473,7 @@
                 "id": 112461400,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-26T19:24:27Z",
+                "last_commit": "2026-08-29T12:15:51Z",
                 "open_issues": 242,
                 "owner": "axnsan12",
                 "repo": "drf-yasg",
@@ -970,7 +970,7 @@
                 "open_issues": 47,
                 "owner": "miki725",
                 "repo": "django-url-filter",
-                "stars": 331,
+                "stars": 330,
                 "topics": [
                   "django",
                   "django-rest-framework",
@@ -1522,7 +1522,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:32:27.297Z",
+    "last_updated": "2026-08-29T22:48:20.805Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
@@ -1534,7 +1534,7 @@
       "open_issues": 1,
       "owner": "nioperas06",
       "repo": "awesome-django-rest-framework",
-      "stars": 1472,
+      "stars": 1471,
       "topics": [
         "api",
         "awesome",
