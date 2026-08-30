@@ -21,7 +21,7 @@
                 "open_issues": 160,
                 "owner": "jazzband",
                 "repo": "djangorestframework-simplejwt",
-                "stars": 4334,
+                "stars": 4333,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -39,7 +39,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-23T07:23:35Z",
-                "open_issues": 42,
+                "open_issues": 43,
                 "owner": "django-oauth",
                 "repo": "django-oauth-toolkit",
                 "stars": 3334,
@@ -509,10 +509,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-21T19:33:04Z",
-                "open_issues": 203,
+                "open_issues": 204,
                 "owner": "tfranzel",
                 "repo": "drf-spectacular",
-                "stars": 2857,
+                "stars": 2858,
                 "topics": [
                   "django",
                   "documentation-generator",
@@ -1331,7 +1331,7 @@
                 "open_issues": 73,
                 "owner": "chibisov",
                 "repo": "drf-extensions",
-                "stars": 1553,
+                "stars": 1552,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -1522,7 +1522,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T22:48:20.805Z",
+    "last_updated": "2026-08-30T22:56:13.747Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
