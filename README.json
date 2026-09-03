@@ -39,7 +39,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-02T07:24:14Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "django-oauth",
                 "repo": "django-oauth-toolkit",
                 "stars": 3335,
@@ -67,7 +67,7 @@
                 "open_issues": 201,
                 "owner": "sunscrapers",
                 "repo": "djoser",
-                "stars": 2680,
+                "stars": 2679,
                 "topics": [
                   "authentication",
                   "developer-tools",
@@ -858,11 +858,11 @@
                 "id": 105686080,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-01T20:33:09Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-03T13:51:40Z",
+                "open_issues": 9,
                 "owner": "django-commons",
                 "repo": "drf-excel",
-                "stars": 240,
+                "stars": 241,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -1173,11 +1173,11 @@
                 "id": 105686080,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-01T20:33:09Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-03T13:51:40Z",
+                "open_issues": 9,
                 "owner": "django-commons",
                 "repo": "drf-excel",
-                "stars": 240,
+                "stars": 241,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -1331,7 +1331,7 @@
                 "open_issues": 73,
                 "owner": "chibisov",
                 "repo": "drf-extensions",
-                "stars": 1553,
+                "stars": 1554,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -1522,7 +1522,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T22:51:38.660Z",
+    "last_updated": "2026-09-03T22:49:45.720Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
