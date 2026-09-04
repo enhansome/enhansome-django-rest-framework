@@ -21,7 +21,7 @@
                 "open_issues": 160,
                 "owner": "jazzband",
                 "repo": "djangorestframework-simplejwt",
-                "stars": 4333,
+                "stars": 4334,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -862,7 +862,7 @@
                 "open_issues": 9,
                 "owner": "django-commons",
                 "repo": "drf-excel",
-                "stars": 241,
+                "stars": 242,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -1177,7 +1177,7 @@
                 "open_issues": 9,
                 "owner": "django-commons",
                 "repo": "drf-excel",
-                "stars": 241,
+                "stars": 242,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -1348,7 +1348,7 @@
                 "id": 21987374,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-01T21:22:58Z",
+                "last_commit": "2026-09-04T10:44:15Z",
                 "open_issues": 16,
                 "owner": "django-json-api",
                 "repo": "django-rest-framework-json-api",
@@ -1522,7 +1522,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T22:49:45.720Z",
+    "last_updated": "2026-09-04T22:33:05.657Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
