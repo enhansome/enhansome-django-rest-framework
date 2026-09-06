@@ -36,7 +36,7 @@
 
 ### Authentication
 
-* [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) ⭐ 4,334 | 🐛 160 | 🌐 Python | 📅 2026-08-31: A JSON Web Token authentication plugin for the Django REST Framework
+* [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) ⭐ 4,335 | 🐛 161 | 🌐 Python | 📅 2026-08-31: A JSON Web Token authentication plugin for the Django REST Framework
 * [django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit) ⭐ 3,335 | 🐛 45 | 🌐 Python | 📅 2026-09-02: Django OAuth Toolkit can help you providing out of the box all the endpoints, data and logic needed to add OAuth2 capabilities to your Django projects. Django OAuth Toolkit makes extensive use of the excellent OAuthLib, so that everything is rfc-compliant.
 * [djoser](https://github.com/sunscrapers/djoser) ⭐ 2,679 | 🐛 201 | 🌐 Python | 📅 2026-08-01: REST implementation of Django authentication system
 * [dj-rest-auth](https://github.com/jazzband/dj-rest-auth) ⭐ 1,869 | 🐛 259 | 🌐 Python | 📅 2026-06-05: A set of REST API endpoints to handle User Registration and Authentication tasks
@@ -61,7 +61,7 @@
 ### Documentation
 
 * [drf-yasg](https://github.com/axnsan12/drf-yasg) ⭐ 3,545 | 🐛 242 | 🌐 Python | 📅 2026-09-05: Alternative OpenAPI Generator for Django REST Framework with response schema support
-* [drf-spectacular](https://github.com/tfranzel/drf-spectacular) ⭐ 2,860 | 🐛 209 | 🌐 Python | 📅 2026-09-02: Sane and flexible OpenAPI 3.0 schema generation for Django REST framework
+* [drf-spectacular](https://github.com/tfranzel/drf-spectacular) ⭐ 2,862 | 🐛 210 | 🌐 Python | 📅 2026-09-02: Sane and flexible OpenAPI 3.0 schema generation for Django REST framework
 * [drf-openapi-tester](https://github.com/snok/drf-openapi-tester) ⚠️ Archived: Test drf test responses against OpenAPI/Swagger documentation.
 
 ### Routing
@@ -81,7 +81,7 @@
 ### Visualization
 
 * [django-rest-pandas](https://github.com/wq/django-rest-pandas) ⭐ 1,277 | 🐛 9 | 🌐 Python | 📅 2026-02-10: Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel)
-* [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis) ⭐ 1,127 | 🐛 29 | 🌐 Python | 📅 2026-09-02: Geographic add-ons for Django REST Framework
+* [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis) ⭐ 1,126 | 🐛 29 | 🌐 Python | 📅 2026-09-02: Geographic add-ons for Django REST Framework
 * [drf-renderer-xlsx](https://github.com/wharton/drf-renderer-xlsx) ⭐ 242 | 🐛 9 | 🌐 Python | 📅 2026-09-03: Allows you to create XLSX for Django REST Framework
 
 ### Logging
@@ -91,10 +91,10 @@
 
 ### Filtering
 
-* [django-rest-framework-filters](https://github.com/philipn/django-rest-framework-filters) ⭐ 853 | 🐛 26 | 🌐 Python | 📅 2023-11-25: Better filtering.
-* [django-url-filter](https://github.com/miki725/django-url-filter) ⭐ 330 | 🐛 47 | 🌐 Python | 📅 2024-05-03: Django URL Filter provides a safe way to filter data via human-friendly URLs.
-* [drf-url-filters](https://github.com/manjitkumar/drf-url-filters) ⭐ 175 | 🐛 8 | 🌐 Python | 📅 2023-06-20: A django app to apply filters on drf querysets using query params with validations using voluptuous.
-* [django-rest-framework-word-search-filter](https://github.com/trollknurr/django-rest-framework-word-search-filter) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2020-10-12: Full word search filter backend for Django REST Framework. DB backend independent.
+* [django-rest-framework-filters](https://github.com/philipn/django-rest-framework-filters) ⭐ 854 | 🐛 26 | 🌐 Python | 📅 2023-11-25: Better filtering.
+* [django-url-filter](https://github.com/miki725/django-url-filter) ⭐ 331 | 🐛 47 | 🌐 Python | 📅 2024-05-03: Django URL Filter provides a safe way to filter data via human-friendly URLs.
+* [drf-url-filters](https://github.com/manjitkumar/drf-url-filters) ⭐ 176 | 🐛 8 | 🌐 Python | 📅 2023-06-20: A django app to apply filters on drf querysets using query params with validations using voluptuous.
+* [django-rest-framework-word-search-filter](https://github.com/trollknurr/django-rest-framework-word-search-filter) ⭐ 77 | 🐛 1 | 🌐 Python | 📅 2020-10-12: Full word search filter backend for Django REST Framework. DB backend independent.
 
 ### Pagination
 
@@ -118,7 +118,7 @@
 * [drf-extensions](https://github.com/chibisov/drf-extensions) ⭐ 1,554 | 🐛 73 | 🌐 Python | 📅 2026-08-06: DRF-extensions is a collection of custom extensions for Django REST Framework
 * [django-rest-framework-json-api](https://github.com/django-json-api/django-rest-framework-json-api) ⭐ 1,252 | 🐛 15 | 🌐 Python | 📅 2026-09-05: Implements most of the JSON API 1.0 spec.
 * [django-restql](https://github.com/yezyilomo/django-restql) ⭐ 625 | 🐛 25 | 🌐 Python | 📅 2025-08-13: Turn your API made with Django REST Framework(DRF) into a GraphQL like API.
-* [drf-generators](https://github.com/Brobin/drf-generators) ⭐ 349 | 🐛 11 | 🌐 Python | 📅 2022-10-19: Generate Views, Serializers, and Urls for your Django Rest Framework application.
+* [drf-generators](https://github.com/Brobin/drf-generators) ⭐ 348 | 🐛 11 | 🌐 Python | 📅 2022-10-19: Generate Views, Serializers, and Urls for your Django Rest Framework application.
 * [django-rest-cli](https://github.com/py-universe/django-rest-cli) ⭐ 117 | 🐛 1 | 🌐 Python | 📅 2022-06-11: A CRUD endpoints generator and flexible cookiecutter for rapid REST APIs dev.
 * [django-rest-localflavor](https://github.com/gilsondev/django-rest-localflavor/) ⭐ 18 | 🐛 9 | 🌐 Python | 📅 2022-12-26: Country-specific Django helpers, to use in Django Rest Framework
 * [django-rest-tsg](https://github.com/jinkanhq/django-rest-tsg) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2024-03-31: A TypeScript code generator for DRF serializers, enums and dataclasses.
@@ -172,4 +172,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
