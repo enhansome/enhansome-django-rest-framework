@@ -17,7 +17,7 @@
                 "id": 90401750,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-31T17:47:00Z",
+                "last_commit": "2026-09-07T17:44:33Z",
                 "open_issues": 161,
                 "owner": "jazzband",
                 "repo": "djangorestframework-simplejwt",
@@ -473,7 +473,7 @@
                 "id": 112461400,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T15:39:54Z",
+                "last_commit": "2026-09-07T04:38:27Z",
                 "open_issues": 242,
                 "owner": "axnsan12",
                 "repo": "drf-yasg",
@@ -509,7 +509,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-02T01:24:17Z",
-                "open_issues": 210,
+                "open_issues": 211,
                 "owner": "tfranzel",
                 "repo": "drf-spectacular",
                 "stars": 2862,
@@ -1522,7 +1522,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T22:22:50.395Z",
+    "last_updated": "2026-09-07T23:00:16.985Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",

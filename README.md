@@ -36,7 +36,7 @@
 
 ### Authentication
 
-* [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) ⭐ 4,335 | 🐛 161 | 🌐 Python | 📅 2026-08-31: A JSON Web Token authentication plugin for the Django REST Framework
+* [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) ⭐ 4,335 | 🐛 161 | 🌐 Python | 📅 2026-09-07: A JSON Web Token authentication plugin for the Django REST Framework
 * [django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit) ⭐ 3,335 | 🐛 45 | 🌐 Python | 📅 2026-09-02: Django OAuth Toolkit can help you providing out of the box all the endpoints, data and logic needed to add OAuth2 capabilities to your Django projects. Django OAuth Toolkit makes extensive use of the excellent OAuthLib, so that everything is rfc-compliant.
 * [djoser](https://github.com/sunscrapers/djoser) ⭐ 2,679 | 🐛 201 | 🌐 Python | 📅 2026-08-01: REST implementation of Django authentication system
 * [dj-rest-auth](https://github.com/jazzband/dj-rest-auth) ⭐ 1,869 | 🐛 259 | 🌐 Python | 📅 2026-06-05: A set of REST API endpoints to handle User Registration and Authentication tasks
@@ -60,8 +60,8 @@
 
 ### Documentation
 
-* [drf-yasg](https://github.com/axnsan12/drf-yasg) ⭐ 3,545 | 🐛 242 | 🌐 Python | 📅 2026-09-05: Alternative OpenAPI Generator for Django REST Framework with response schema support
-* [drf-spectacular](https://github.com/tfranzel/drf-spectacular) ⭐ 2,862 | 🐛 210 | 🌐 Python | 📅 2026-09-02: Sane and flexible OpenAPI 3.0 schema generation for Django REST framework
+* [drf-yasg](https://github.com/axnsan12/drf-yasg) ⭐ 3,545 | 🐛 242 | 🌐 Python | 📅 2026-09-07: Alternative OpenAPI Generator for Django REST Framework with response schema support
+* [drf-spectacular](https://github.com/tfranzel/drf-spectacular) ⭐ 2,862 | 🐛 211 | 🌐 Python | 📅 2026-09-02: Sane and flexible OpenAPI 3.0 schema generation for Django REST framework
 * [drf-openapi-tester](https://github.com/snok/drf-openapi-tester) ⚠️ Archived: Test drf test responses against OpenAPI/Swagger documentation.
 
 ### Routing
@@ -172,4 +172,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
