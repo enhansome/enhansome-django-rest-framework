@@ -39,7 +39,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-02T07:24:14Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "django-oauth",
                 "repo": "django-oauth-toolkit",
                 "stars": 3335,
@@ -512,7 +512,7 @@
                 "open_issues": 212,
                 "owner": "tfranzel",
                 "repo": "drf-spectacular",
-                "stars": 2862,
+                "stars": 2861,
                 "topics": [
                   "django",
                   "documentation-generator",
@@ -830,7 +830,7 @@
                 "id": 7987095,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-08T16:46:34Z",
+                "last_commit": "2026-09-09T21:12:25Z",
                 "open_issues": 29,
                 "owner": "openwisp",
                 "repo": "django-rest-framework-gis",
@@ -862,7 +862,7 @@
                 "open_issues": 9,
                 "owner": "django-commons",
                 "repo": "drf-excel",
-                "stars": 242,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -1177,7 +1177,7 @@
                 "open_issues": 9,
                 "owner": "django-commons",
                 "repo": "drf-excel",
-                "stars": 242,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -1522,7 +1522,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T22:59:37.813Z",
+    "last_updated": "2026-09-09T22:46:35.539Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
