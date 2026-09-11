@@ -21,7 +21,7 @@
                 "open_issues": 160,
                 "owner": "jazzband",
                 "repo": "djangorestframework-simplejwt",
-                "stars": 4335,
+                "stars": 4333,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -307,7 +307,7 @@
                 "open_issues": 23,
                 "owner": "dbkaplan",
                 "repo": "dry-rest-permissions",
-                "stars": 369,
+                "stars": 368,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -618,7 +618,7 @@
                 "open_issues": 71,
                 "owner": "beda-software",
                 "repo": "drf-writable-nested",
-                "stars": 1140,
+                "stars": 1139,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -636,7 +636,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2023-10-16T05:55:10Z",
-                "open_issues": 33,
+                "open_issues": 32,
                 "owner": "rsinger86",
                 "repo": "drf-flex-fields",
                 "stars": 767,
@@ -1411,7 +1411,7 @@
                 "open_issues": 11,
                 "owner": "Brobin",
                 "repo": "drf-generators",
-                "stars": 348,
+                "stars": 347,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -1442,6 +1442,48 @@
                 ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
+            },
+            {
+              "node_type": "item",
+              "title": "django-orm-lens",
+              "description": "Static analyzer for Django models — sidebar tree, ER diagram, ORM linter, MCP server. Helps trace model shapes that ViewSets and Serializers reason about. No DB, no Django boot.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Free, MIT alternative to paid Django schema review. Blast radius on every PR, schema drift, N+1 across functions, ER diagrams, MCP server. No DB, no Django boot, no Pro tier.",
+                "homepage": "https://frowningdev.github.io/django-orm-lens/",
+                "id": 1298571736,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-11T18:54:41Z",
+                "open_issues": 3,
+                "owner": "FROWNINGdev",
+                "repo": "django-orm-lens",
+                "stars": 74,
+                "topics": [
+                  "ai-agents",
+                  "aider",
+                  "code-navigation",
+                  "cursor",
+                  "database",
+                  "developer-tools",
+                  "django",
+                  "django-tools",
+                  "er-diagram",
+                  "mcp",
+                  "mcp-server",
+                  "mermaid",
+                  "model-context-protocol",
+                  "orm",
+                  "python",
+                  "python-cli",
+                  "schema-diagram",
+                  "schema-visualization",
+                  "static-analysis",
+                  "vscode-extension"
+                ]
+              },
+              "first_seen": "2026-09-11T22:48:10.357Z"
             },
             {
               "node_type": "item",
@@ -1522,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T22:47:22.161Z",
+    "last_updated": "2026-09-11T22:48:10.357Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
@@ -1530,8 +1572,8 @@
       "id": 96670275,
       "language": null,
       "license": "GPL-3.0",
-      "last_commit": "2026-07-03T05:11:23Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-11T19:43:32Z",
+      "open_issues": 0,
       "owner": "nioperas06",
       "repo": "awesome-django-rest-framework",
       "stars": 1471,
@@ -1548,7 +1590,7 @@
         "usefull-drf"
       ]
     },
-    "original_repository_sha": "4afbf0e98fa507bd38d73e47202983a27fae6407",
+    "original_repository_sha": "0cdbc771b15b2d36c86dedaf5481762e223ca78e",
     "enhanced_repository": "enhansome/enhansome-django-rest-framework",
     "enhanced_repository_description": null,
     "title": "Awesome Django REST Framework with stars"
