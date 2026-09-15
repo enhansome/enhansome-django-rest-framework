@@ -21,7 +21,7 @@
                 "open_issues": 160,
                 "owner": "jazzband",
                 "repo": "djangorestframework-simplejwt",
-                "stars": 4332,
+                "stars": 4331,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -42,7 +42,7 @@
                 "open_issues": 46,
                 "owner": "django-oauth",
                 "repo": "django-oauth-toolkit",
-                "stars": 3335,
+                "stars": 3336,
                 "topics": [
                   "django",
                   "oauth2",
@@ -477,7 +477,7 @@
                 "open_issues": 242,
                 "owner": "axnsan12",
                 "repo": "drf-yasg",
-                "stars": 3545,
+                "stars": 3544,
                 "topics": [
                   "coreapi",
                   "django",
@@ -509,10 +509,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-02T01:24:17Z",
-                "open_issues": 212,
+                "open_issues": 214,
                 "owner": "tfranzel",
                 "repo": "drf-spectacular",
-                "stars": 2860,
+                "stars": 2859,
                 "topics": [
                   "django",
                   "documentation-generator",
@@ -858,7 +858,7 @@
                 "id": 105686080,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-08T21:34:01Z",
+                "last_commit": "2026-09-15T17:10:08Z",
                 "open_issues": 9,
                 "owner": "django-commons",
                 "repo": "drf-excel",
@@ -1173,7 +1173,7 @@
                 "id": 105686080,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-08T21:34:01Z",
+                "last_commit": "2026-09-15T17:10:08Z",
                 "open_issues": 9,
                 "owner": "django-commons",
                 "repo": "drf-excel",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T23:30:40.563Z",
+    "last_updated": "2026-09-15T23:11:26.092Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
