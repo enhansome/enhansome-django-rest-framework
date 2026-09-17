@@ -21,7 +21,7 @@
                 "open_issues": 160,
                 "owner": "jazzband",
                 "repo": "djangorestframework-simplejwt",
-                "stars": 4330,
+                "stars": 4329,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -39,7 +39,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-02T07:24:14Z",
-                "open_issues": 48,
+                "open_issues": 49,
                 "owner": "django-oauth",
                 "repo": "django-oauth-toolkit",
                 "stars": 3336,
@@ -834,7 +834,7 @@
                 "open_issues": 29,
                 "owner": "openwisp",
                 "repo": "django-rest-framework-gis",
-                "stars": 1125,
+                "stars": 1126,
                 "topics": [
                   "django",
                   "django-rest-framework",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T23:16:08.834Z",
+    "last_updated": "2026-09-17T23:07:01.544Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
