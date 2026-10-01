@@ -42,7 +42,7 @@
                 "open_issues": 57,
                 "owner": "django-oauth",
                 "repo": "django-oauth-toolkit",
-                "stars": 3340,
+                "stars": 3341,
                 "topics": [
                   "django",
                   "oauth2",
@@ -830,7 +830,7 @@
                 "id": 7987095,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-09T21:12:25Z",
+                "last_commit": "2026-09-30T22:50:49Z",
                 "open_issues": 29,
                 "owner": "openwisp",
                 "repo": "django-rest-framework-gis",
@@ -946,7 +946,7 @@
                 "open_issues": 26,
                 "owner": "philipn",
                 "repo": "django-rest-framework-filters",
-                "stars": 854,
+                "stars": 853,
                 "topics": [
                   "django",
                   "django-rest-framework"
@@ -970,7 +970,7 @@
                 "open_issues": 47,
                 "owner": "miki725",
                 "repo": "django-url-filter",
-                "stars": 331,
+                "stars": 330,
                 "topics": [
                   "django",
                   "django-rest-framework",
@@ -996,7 +996,7 @@
                 "open_issues": 8,
                 "owner": "manjitkumar",
                 "repo": "drf-url-filters",
-                "stars": 176,
+                "stars": 175,
                 "topics": [
                   "django",
                   "drf-url-filters",
@@ -1024,7 +1024,7 @@
                 "open_issues": 1,
                 "owner": "trollknurr",
                 "repo": "django-rest-framework-word-search-filter",
-                "stars": 77,
+                "stars": 76,
                 "topics": [
                   "filter-backends",
                   "hacktoberfest"
@@ -1135,7 +1135,7 @@
                 "open_issues": 43,
                 "owner": "vbabiy",
                 "repo": "djangorestframework-camel-case",
-                "stars": 673,
+                "stars": 674,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T23:58:03.908Z",
+    "last_updated": "2026-10-01T00:11:37.710Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
