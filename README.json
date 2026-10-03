@@ -38,8 +38,8 @@
                 "id": 10176112,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T23:59:55Z",
-                "open_issues": 48,
+                "last_commit": "2026-10-03T02:10:49Z",
+                "open_issues": 45,
                 "owner": "django-oauth",
                 "repo": "django-oauth-toolkit",
                 "stars": 3341,
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:00:32.021Z",
+    "last_updated": "2026-10-03T04:43:34.260Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
