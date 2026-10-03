@@ -21,7 +21,7 @@
                 "open_issues": 160,
                 "owner": "jazzband",
                 "repo": "djangorestframework-simplejwt",
-                "stars": 4332,
+                "stars": 4333,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -38,8 +38,8 @@
                 "id": 10176112,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T00:11:15Z",
-                "open_issues": 50,
+                "last_commit": "2026-10-02T23:59:55Z",
+                "open_issues": 48,
                 "owner": "django-oauth",
                 "repo": "django-oauth-toolkit",
                 "stars": 3341,
@@ -512,7 +512,7 @@
                 "open_issues": 218,
                 "owner": "tfranzel",
                 "repo": "drf-spectacular",
-                "stars": 2863,
+                "stars": 2864,
                 "topics": [
                   "django",
                   "documentation-generator",
@@ -1352,7 +1352,7 @@
                 "open_issues": 16,
                 "owner": "django-json-api",
                 "repo": "django-rest-framework-json-api",
-                "stars": 1255,
+                "stars": 1254,
                 "topics": [
                   "django-rest-framework",
                   "json-api",
@@ -1458,7 +1458,7 @@
                 "open_issues": 5,
                 "owner": "FROWNINGdev",
                 "repo": "django-orm-lens",
-                "stars": 82,
+                "stars": 84,
                 "topics": [
                   "ai-agents",
                   "aider",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T00:15:02.501Z",
+    "last_updated": "2026-10-03T00:00:32.021Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
