@@ -21,7 +21,7 @@
                 "open_issues": 160,
                 "owner": "jazzband",
                 "repo": "djangorestframework-simplejwt",
-                "stars": 4333,
+                "stars": 4334,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -38,11 +38,11 @@
                 "id": 10176112,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T02:10:49Z",
-                "open_issues": 45,
+                "last_commit": "2026-10-03T14:54:50Z",
+                "open_issues": 47,
                 "owner": "django-oauth",
                 "repo": "django-oauth-toolkit",
-                "stars": 3341,
+                "stars": 3340,
                 "topics": [
                   "django",
                   "oauth2",
@@ -474,10 +474,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-07T04:38:27Z",
-                "open_issues": 240,
+                "open_issues": 241,
                 "owner": "axnsan12",
                 "repo": "drf-yasg",
-                "stars": 3545,
+                "stars": 3544,
                 "topics": [
                   "coreapi",
                   "django",
@@ -509,7 +509,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-02T01:24:17Z",
-                "open_issues": 218,
+                "open_issues": 219,
                 "owner": "tfranzel",
                 "repo": "drf-spectacular",
                 "stars": 2864,
@@ -830,8 +830,8 @@
                 "id": 7987095,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T14:43:59Z",
-                "open_issues": 30,
+                "last_commit": "2026-10-03T20:38:52Z",
+                "open_issues": 29,
                 "owner": "openwisp",
                 "repo": "django-rest-framework-gis",
                 "stars": 1128,
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:43:34.260Z",
+    "last_updated": "2026-10-03T23:20:17.851Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
