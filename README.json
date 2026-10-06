@@ -17,7 +17,7 @@
                 "id": 90401750,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-28T17:52:26Z",
+                "last_commit": "2026-10-05T18:14:24Z",
                 "open_issues": 160,
                 "owner": "jazzband",
                 "repo": "djangorestframework-simplejwt",
@@ -512,7 +512,7 @@
                 "open_issues": 219,
                 "owner": "tfranzel",
                 "repo": "drf-spectacular",
-                "stars": 2863,
+                "stars": 2864,
                 "topics": [
                   "django",
                   "documentation-generator",
@@ -581,7 +581,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-04T03:34:54Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "alanjds",
                 "repo": "drf-nested-routers",
                 "stars": 1799,
@@ -1454,8 +1454,8 @@
                 "id": 1298571736,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-04T15:01:05Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-05T08:10:55Z",
+                "open_issues": 6,
                 "owner": "FROWNINGdev",
                 "repo": "django-orm-lens",
                 "stars": 84,
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T23:36:45.553Z",
+    "last_updated": "2026-10-06T01:29:43.255Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
