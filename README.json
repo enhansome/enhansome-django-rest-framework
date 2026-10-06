@@ -21,7 +21,7 @@
                 "open_issues": 160,
                 "owner": "jazzband",
                 "repo": "djangorestframework-simplejwt",
-                "stars": 4333,
+                "stars": 4334,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -1454,7 +1454,7 @@
                 "id": 1298571736,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-05T08:10:55Z",
+                "last_commit": "2026-10-06T07:18:20Z",
                 "open_issues": 6,
                 "owner": "FROWNINGdev",
                 "repo": "django-orm-lens",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:29:43.255Z",
+    "last_updated": "2026-10-06T11:10:00.370Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
