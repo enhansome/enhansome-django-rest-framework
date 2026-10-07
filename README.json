@@ -39,10 +39,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-04T07:33:50Z",
-                "open_issues": 47,
+                "open_issues": 48,
                 "owner": "django-oauth",
                 "repo": "django-oauth-toolkit",
-                "stars": 3340,
+                "stars": 3342,
                 "topics": [
                   "django",
                   "oauth2",
@@ -94,7 +94,7 @@
                 "open_issues": 259,
                 "owner": "iMerica",
                 "repo": "dj-rest-auth",
-                "stars": 1873,
+                "stars": 1874,
                 "topics": [
                   "authentication",
                   "django",
@@ -858,7 +858,7 @@
                 "id": 105686080,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-29T16:30:35Z",
+                "last_commit": "2026-10-06T20:05:27Z",
                 "open_issues": 9,
                 "owner": "django-commons",
                 "repo": "drf-excel",
@@ -1173,7 +1173,7 @@
                 "id": 105686080,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-29T16:30:35Z",
+                "last_commit": "2026-10-06T20:05:27Z",
                 "open_issues": 9,
                 "owner": "django-commons",
                 "repo": "drf-excel",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:10:00.370Z",
+    "last_updated": "2026-10-07T00:10:08.069Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
