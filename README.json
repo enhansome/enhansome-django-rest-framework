@@ -39,7 +39,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-04T07:33:50Z",
-                "open_issues": 48,
+                "open_issues": 49,
                 "owner": "django-oauth",
                 "repo": "django-oauth-toolkit",
                 "stars": 3342,
@@ -512,7 +512,7 @@
                 "open_issues": 219,
                 "owner": "tfranzel",
                 "repo": "drf-spectacular",
-                "stars": 2864,
+                "stars": 2865,
                 "topics": [
                   "django",
                   "documentation-generator",
@@ -584,7 +584,7 @@
                 "open_issues": 46,
                 "owner": "alanjds",
                 "repo": "drf-nested-routers",
-                "stars": 1799,
+                "stars": 1798,
                 "topics": [
                   "django",
                   "django-rest-framework",
@@ -664,7 +664,7 @@
                 "open_issues": 18,
                 "owner": "Hipo",
                 "repo": "drf-extra-fields",
-                "stars": 688,
+                "stars": 689,
                 "topics": [
                   "django",
                   "django-rest-framework"
@@ -1328,10 +1328,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-06T15:27:10Z",
-                "open_issues": 73,
+                "open_issues": 72,
                 "owner": "chibisov",
                 "repo": "drf-extensions",
-                "stars": 1552,
+                "stars": 1551,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -1348,7 +1348,7 @@
                 "id": 21987374,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-01T21:23:10Z",
+                "last_commit": "2026-10-07T14:13:21Z",
                 "open_issues": 16,
                 "owner": "django-json-api",
                 "repo": "django-rest-framework-json-api",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T00:10:08.069Z",
+    "last_updated": "2026-10-08T00:25:16.131Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
@@ -1575,7 +1575,7 @@
       "open_issues": 1,
       "owner": "nioperas06",
       "repo": "awesome-django-rest-framework",
-      "stars": 1474,
+      "stars": 1473,
       "topics": [
         "api",
         "awesome",
