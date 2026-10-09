@@ -21,7 +21,7 @@
                 "open_issues": 160,
                 "owner": "jazzband",
                 "repo": "djangorestframework-simplejwt",
-                "stars": 4334,
+                "stars": 4335,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -38,8 +38,8 @@
                 "id": 10176112,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-04T07:33:50Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-08T21:01:42Z",
+                "open_issues": 47,
                 "owner": "django-oauth",
                 "repo": "django-oauth-toolkit",
                 "stars": 3342,
@@ -474,7 +474,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-04T12:59:00Z",
-                "open_issues": 219,
+                "open_issues": 218,
                 "owner": "axnsan12",
                 "repo": "drf-yasg",
                 "stars": 3544,
@@ -584,7 +584,7 @@
                 "open_issues": 46,
                 "owner": "alanjds",
                 "repo": "drf-nested-routers",
-                "stars": 1798,
+                "stars": 1799,
                 "topics": [
                   "django",
                   "django-rest-framework",
@@ -834,7 +834,7 @@
                 "open_issues": 29,
                 "owner": "openwisp",
                 "repo": "django-rest-framework-gis",
-                "stars": 1128,
+                "stars": 1129,
                 "topics": [
                   "django",
                   "django-rest-framework",
@@ -1156,7 +1156,7 @@
                 "open_issues": 32,
                 "owner": "mjumbewu",
                 "repo": "django-rest-framework-csv",
-                "stars": 368,
+                "stars": 369,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -1348,8 +1348,8 @@
                 "id": 21987374,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-07T14:13:21Z",
-                "open_issues": 16,
+                "last_commit": "2026-10-08T14:31:36Z",
+                "open_issues": 14,
                 "owner": "django-json-api",
                 "repo": "django-rest-framework-json-api",
                 "stars": 1254,
@@ -1454,11 +1454,11 @@
                 "id": 1298571736,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-06T07:18:20Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-08T13:33:04Z",
+                "open_issues": 3,
                 "owner": "FROWNINGdev",
                 "repo": "django-orm-lens",
-                "stars": 84,
+                "stars": 85,
                 "topics": [
                   "ai-agents",
                   "aider",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T00:25:16.131Z",
+    "last_updated": "2026-10-09T00:40:51.941Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
