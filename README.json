@@ -21,7 +21,7 @@
                 "open_issues": 160,
                 "owner": "jazzband",
                 "repo": "djangorestframework-simplejwt",
-                "stars": 4335,
+                "stars": 4336,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -38,7 +38,7 @@
                 "id": 10176112,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T19:03:47Z",
+                "last_commit": "2026-10-10T07:23:43Z",
                 "open_issues": 48,
                 "owner": "django-oauth",
                 "repo": "django-oauth-toolkit",
@@ -477,7 +477,7 @@
                 "open_issues": 218,
                 "owner": "axnsan12",
                 "repo": "drf-yasg",
-                "stars": 3544,
+                "stars": 3545,
                 "topics": [
                   "coreapi",
                   "django",
@@ -509,10 +509,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-02T01:24:17Z",
-                "open_issues": 219,
+                "open_issues": 218,
                 "owner": "tfranzel",
                 "repo": "drf-spectacular",
-                "stars": 2865,
+                "stars": 2866,
                 "topics": [
                   "django",
                   "documentation-generator",
@@ -584,7 +584,7 @@
                 "open_issues": 46,
                 "owner": "alanjds",
                 "repo": "drf-nested-routers",
-                "stars": 1799,
+                "stars": 1798,
                 "topics": [
                   "django",
                   "django-rest-framework",
@@ -1331,7 +1331,7 @@
                 "open_issues": 72,
                 "owner": "chibisov",
                 "repo": "drf-extensions",
-                "stars": 1551,
+                "stars": 1550,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -1431,7 +1431,7 @@
                 "open_issues": 1,
                 "owner": "py-universe",
                 "repo": "django-rest-cli",
-                "stars": 117,
+                "stars": 116,
                 "topics": [
                   "developer-tool",
                   "django",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T00:19:51.310Z",
+    "last_updated": "2026-10-10T23:52:15.334Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
