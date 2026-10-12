@@ -42,7 +42,7 @@
                 "open_issues": 48,
                 "owner": "django-oauth",
                 "repo": "django-oauth-toolkit",
-                "stars": 3343,
+                "stars": 3344,
                 "topics": [
                   "django",
                   "oauth2",
@@ -278,7 +278,7 @@
                 "open_issues": 28,
                 "owner": "rsinger86",
                 "repo": "drf-access-policy",
-                "stars": 512,
+                "stars": 513,
                 "topics": [
                   "access-control",
                   "authorization",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T23:52:15.334Z",
+    "last_updated": "2026-10-12T00:00:16.351Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",

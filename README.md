@@ -37,7 +37,7 @@
 ### Authentication
 
 * [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) ⭐ 4,336 | 🐛 160 | 🌐 Python | 📅 2026-10-05: A JSON Web Token authentication plugin for the Django REST Framework
-* [django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit) ⭐ 3,343 | 🐛 48 | 🌐 Python | 📅 2026-10-10: Django OAuth Toolkit can help you providing out of the box all the endpoints, data and logic needed to add OAuth2 capabilities to your Django projects. Django OAuth Toolkit makes extensive use of the excellent OAuthLib, so that everything is rfc-compliant.
+* [django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit) ⭐ 3,344 | 🐛 48 | 🌐 Python | 📅 2026-10-10: Django OAuth Toolkit can help you providing out of the box all the endpoints, data and logic needed to add OAuth2 capabilities to your Django projects. Django OAuth Toolkit makes extensive use of the excellent OAuthLib, so that everything is rfc-compliant.
 * [djoser](https://github.com/sunscrapers/djoser) ⭐ 2,679 | 🐛 202 | 🌐 Python | 📅 2026-08-01: REST implementation of Django authentication system
 * [dj-rest-auth](https://github.com/jazzband/dj-rest-auth) ⭐ 1,874 | 🐛 259 | 🌐 Python | 📅 2026-06-05: A set of REST API endpoints to handle User Registration and Authentication tasks
 * [django-rest-framework-social-oauth2](https://github.com/PhilipGarnero/django-rest-framework-social-oauth2) ⭐ 1,066 | 🐛 44 | 🌐 Python | 📅 2026-04-17: python-social-auth and oauth2 support for django-rest-framework
@@ -49,7 +49,7 @@
 ### Authorization
 
 * [djangorestframework-api-key](https://github.com/florimondmanca/djangorestframework-api-key) ⭐ 744 | 🐛 18 | 🌐 Python | 📅 2025-04-04: API key permissions.
-* [drf-access-policy](https://github.com/rsinger86/drf-access-policy) ⭐ 512 | 🐛 28 | 🌐 Python | 📅 2024-08-20: Declarative access policies/permissions modeled after AWS' IAM policies.
+* [drf-access-policy](https://github.com/rsinger86/drf-access-policy) ⭐ 513 | 🐛 28 | 🌐 Python | 📅 2024-08-20: Declarative access policies/permissions modeled after AWS' IAM policies.
 * [dry-rest-permissions](https://github.com/dbkaplan/dry-rest-permissions) ⭐ 367 | 🐛 23 | 🌐 Python | 📅 2022-12-26: Rules based permissions.
 * [rest\_condition](https://github.com/caxap/rest_condition) ⭐ 279 | 🐛 7 | 🌐 Python | 📅 2019-01-04: Complex permissions flow.
 * [django-rest-framework-roles](https://github.com/computer-lab/django-rest-framework-roles) ⭐ 150 | 🐛 5 | 🌐 Python | 📅 2019-07-10: Parameterizes Django REST Framework methods over user-defined roles.
@@ -173,4 +173,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
