@@ -831,7 +831,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-03T20:38:52Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "openwisp",
                 "repo": "django-rest-framework-gis",
                 "stars": 1129,
@@ -1331,7 +1331,7 @@
                 "open_issues": 73,
                 "owner": "chibisov",
                 "repo": "drf-extensions",
-                "stars": 1550,
+                "stars": 1549,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -1352,7 +1352,7 @@
                 "open_issues": 12,
                 "owner": "django-json-api",
                 "repo": "django-rest-framework-json-api",
-                "stars": 1254,
+                "stars": 1255,
                 "topics": [
                   "django-rest-framework",
                   "json-api",
@@ -1377,7 +1377,7 @@
                 "open_issues": 25,
                 "owner": "yezyilomo",
                 "repo": "django-restql",
-                "stars": 623,
+                "stars": 624,
                 "topics": [
                   "api",
                   "django-graphene",
@@ -1458,7 +1458,7 @@
                 "open_issues": 7,
                 "owner": "FROWNINGdev",
                 "repo": "django-orm-lens",
-                "stars": 86,
+                "stars": 87,
                 "topics": [
                   "ai-agents",
                   "aider",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:15:07.274Z",
+    "last_updated": "2026-10-13T23:56:31.457Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
@@ -1575,7 +1575,7 @@
       "open_issues": 1,
       "owner": "nioperas06",
       "repo": "awesome-django-rest-framework",
-      "stars": 1472,
+      "stars": 1473,
       "topics": [
         "api",
         "awesome",
