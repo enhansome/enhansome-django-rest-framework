@@ -39,7 +39,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-10T07:23:43Z",
-                "open_issues": 48,
+                "open_issues": 49,
                 "owner": "django-oauth",
                 "repo": "django-oauth-toolkit",
                 "stars": 3343,
@@ -803,7 +803,7 @@
                 "open_issues": 9,
                 "owner": "wq",
                 "repo": "django-rest-pandas",
-                "stars": 1276,
+                "stars": 1275,
                 "topics": [
                   "chart",
                   "csv",
@@ -1104,7 +1104,7 @@
                 "open_issues": 9,
                 "owner": "wq",
                 "repo": "django-rest-pandas",
-                "stars": 1276,
+                "stars": 1275,
                 "topics": [
                   "chart",
                   "csv",
@@ -1331,7 +1331,7 @@
                 "open_issues": 73,
                 "owner": "chibisov",
                 "repo": "drf-extensions",
-                "stars": 1550,
+                "stars": 1549,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -1349,7 +1349,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-15T14:28:46Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "django-json-api",
                 "repo": "django-rest-framework-json-api",
                 "stars": 1255,
@@ -1454,8 +1454,8 @@
                 "id": 1298571736,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-14T05:38:28Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-16T19:33:33Z",
+                "open_issues": 11,
                 "owner": "FROWNINGdev",
                 "repo": "django-orm-lens",
                 "stars": 89,
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T23:18:36.676Z",
+    "last_updated": "2026-10-16T23:02:15.856Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
@@ -1575,7 +1575,7 @@
       "open_issues": 1,
       "owner": "nioperas06",
       "repo": "awesome-django-rest-framework",
-      "stars": 1473,
+      "stars": 1474,
       "topics": [
         "api",
         "awesome",
