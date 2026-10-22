@@ -38,7 +38,7 @@
                 "id": 10176112,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-20T20:07:15Z",
+                "last_commit": "2026-10-22T07:23:46Z",
                 "open_issues": 51,
                 "owner": "django-oauth",
                 "repo": "django-oauth-toolkit",
@@ -94,7 +94,7 @@
                 "open_issues": 259,
                 "owner": "iMerica",
                 "repo": "dj-rest-auth",
-                "stars": 1876,
+                "stars": 1877,
                 "topics": [
                   "authentication",
                   "django",
@@ -509,7 +509,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-02T01:24:17Z",
-                "open_issues": 224,
+                "open_issues": 225,
                 "owner": "tfranzel",
                 "repo": "drf-spectacular",
                 "stars": 2868,
@@ -1198,7 +1198,7 @@
                 "open_issues": 10,
                 "owner": "gizmag",
                 "repo": "drf-ujson-renderer",
-                "stars": 126,
+                "stars": 125,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -1348,8 +1348,8 @@
                 "id": 21987374,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-15T14:28:46Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-22T17:42:26Z",
+                "open_issues": 12,
                 "owner": "django-json-api",
                 "repo": "django-rest-framework-json-api",
                 "stars": 1255,
@@ -1455,7 +1455,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-19T08:36:39Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "FROWNINGdev",
                 "repo": "django-orm-lens",
                 "stars": 93,
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T23:40:00.889Z",
+    "last_updated": "2026-10-22T23:37:34.493Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
