@@ -39,10 +39,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-22T07:23:46Z",
-                "open_issues": 51,
+                "open_issues": 52,
                 "owner": "django-oauth",
                 "repo": "django-oauth-toolkit",
-                "stars": 3344,
+                "stars": 3343,
                 "topics": [
                   "django",
                   "oauth2",
@@ -508,8 +508,8 @@
                 "id": 244234763,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-02T01:24:17Z",
-                "open_issues": 225,
+                "last_commit": "2026-10-23T10:24:02Z",
+                "open_issues": 227,
                 "owner": "tfranzel",
                 "repo": "drf-spectacular",
                 "stars": 2868,
@@ -830,11 +830,11 @@
                 "id": 7987095,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-21T18:10:57Z",
-                "open_issues": 31,
+                "last_commit": "2026-10-23T14:41:30Z",
+                "open_issues": 30,
                 "owner": "openwisp",
                 "repo": "django-rest-framework-gis",
-                "stars": 1129,
+                "stars": 1131,
                 "topics": [
                   "django",
                   "django-rest-framework",
@@ -996,7 +996,7 @@
                 "open_issues": 8,
                 "owner": "manjitkumar",
                 "repo": "drf-url-filters",
-                "stars": 175,
+                "stars": 176,
                 "topics": [
                   "django",
                   "drf-url-filters",
@@ -1352,7 +1352,7 @@
                 "open_issues": 12,
                 "owner": "django-json-api",
                 "repo": "django-rest-framework-json-api",
-                "stars": 1255,
+                "stars": 1256,
                 "topics": [
                   "django-rest-framework",
                   "json-api",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T23:37:34.493Z",
+    "last_updated": "2026-10-23T23:32:45.400Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
