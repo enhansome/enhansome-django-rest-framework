@@ -477,7 +477,7 @@
                 "open_issues": 218,
                 "owner": "axnsan12",
                 "repo": "drf-yasg",
-                "stars": 3546,
+                "stars": 3547,
                 "topics": [
                   "coreapi",
                   "django",
@@ -509,7 +509,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-23T10:24:02Z",
-                "open_issues": 227,
+                "open_issues": 231,
                 "owner": "tfranzel",
                 "repo": "drf-spectacular",
                 "stars": 2868,
@@ -664,7 +664,7 @@
                 "open_issues": 18,
                 "owner": "Hipo",
                 "repo": "drf-extra-fields",
-                "stars": 689,
+                "stars": 688,
                 "topics": [
                   "django",
                   "django-rest-framework"
@@ -834,7 +834,7 @@
                 "open_issues": 30,
                 "owner": "openwisp",
                 "repo": "django-rest-framework-gis",
-                "stars": 1131,
+                "stars": 1132,
                 "topics": [
                   "django",
                   "django-rest-framework",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T23:32:45.400Z",
+    "last_updated": "2026-10-24T22:44:51.174Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",

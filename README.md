@@ -60,8 +60,8 @@
 
 ### Documentation
 
-* [drf-yasg](https://github.com/axnsan12/drf-yasg) ⭐ 3,546 | 🐛 218 | 🌐 Python | 📅 2026-10-09: Alternative OpenAPI Generator for Django REST Framework with response schema support
-* [drf-spectacular](https://github.com/tfranzel/drf-spectacular) ⭐ 2,868 | 🐛 227 | 🌐 Python | 📅 2026-10-23: Sane and flexible OpenAPI 3.0 schema generation for Django REST framework
+* [drf-yasg](https://github.com/axnsan12/drf-yasg) ⭐ 3,547 | 🐛 218 | 🌐 Python | 📅 2026-10-09: Alternative OpenAPI Generator for Django REST Framework with response schema support
+* [drf-spectacular](https://github.com/tfranzel/drf-spectacular) ⭐ 2,868 | 🐛 231 | 🌐 Python | 📅 2026-10-23: Sane and flexible OpenAPI 3.0 schema generation for Django REST framework
 * [drf-openapi-tester](https://github.com/snok/drf-openapi-tester) ⚠️ Archived: Test drf test responses against OpenAPI/Swagger documentation.
 
 ### Routing
@@ -72,7 +72,7 @@
 
 * [drf-writable-nested](https://github.com/beda-software/drf-writable-nested) ⭐ 1,139 | 🐛 71 | 🌐 Python | 📅 2026-09-10: Writable nested model serializer for Django REST Framework
 * [drf-flex-fields](https://github.com/rsinger86/drf-flex-fields) ⭐ 766 | 🐛 32 | 🌐 Python | 📅 2023-10-16: Dynamically set fields and expand nested resources in Django REST Framework serializers.
-* [drf-extra-fields](https://github.com/Hipo/drf-extra-fields/) ⭐ 689 | 🐛 18 | 🌐 Python | 📅 2025-08-26: Extra fields for Django REST framework.
+* [drf-extra-fields](https://github.com/Hipo/drf-extra-fields/) ⭐ 688 | 🐛 18 | 🌐 Python | 📅 2025-08-26: Extra fields for Django REST framework.
 * [django-rest-framework-recursive](https://github.com/heywbj/django-rest-framework-recursive/) ⭐ 365 | 🐛 6 | 🌐 Python | 📅 2024-08-14: Recursive Serialization for Django REST framework
 * [drf-shapeless-serializers](https://github.com/khaledsukkar2/drf-shapeless-serializers) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2026-01-12: provides powerful mixins that extend Django REST Framework's serializers with dynamic configuration capabilities so you can select fields at runtime, rename output keys dynamically, modify field attributes per-request, add and configure nested relationships on-the-fly and apply conditional field logic.
 * [drf-errors](https://github.com/null-none/drf-errors/) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2022-09-16: Extension for Django REST framework error display.
@@ -81,7 +81,7 @@
 ### Visualization
 
 * [django-rest-pandas](https://github.com/wq/django-rest-pandas) ⭐ 1,275 | 🐛 9 | 🌐 Python | 📅 2026-02-10: Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel)
-* [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis) ⭐ 1,131 | 🐛 30 | 🌐 Python | 📅 2026-10-23: Geographic add-ons for Django REST Framework
+* [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis) ⭐ 1,132 | 🐛 30 | 🌐 Python | 📅 2026-10-23: Geographic add-ons for Django REST Framework
 * [drf-renderer-xlsx](https://github.com/wharton/drf-renderer-xlsx) ⭐ 243 | 🐛 10 | 🌐 Python | 📅 2026-10-20: Allows you to create XLSX for Django REST Framework
 
 ### Logging
@@ -173,4 +173,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
