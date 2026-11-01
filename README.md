@@ -36,7 +36,7 @@
 
 ### Authentication
 
-* [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) ⭐ 4,338 | 🐛 160 | 🌐 Python | 📅 2026-10-31: A JSON Web Token authentication plugin for the Django REST Framework
+* [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) ⭐ 4,337 | 🐛 160 | 🌐 Python | 📅 2026-10-31: A JSON Web Token authentication plugin for the Django REST Framework
 * [django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit) ⭐ 3,341 | 🐛 44 | 🌐 Python | 📅 2026-10-31: Django OAuth Toolkit can help you providing out of the box all the endpoints, data and logic needed to add OAuth2 capabilities to your Django projects. Django OAuth Toolkit makes extensive use of the excellent OAuthLib, so that everything is rfc-compliant.
 * [djoser](https://github.com/sunscrapers/djoser) ⭐ 2,679 | 🐛 203 | 🌐 Python | 📅 2026-10-12: REST implementation of Django authentication system
 * [dj-rest-auth](https://github.com/jazzband/dj-rest-auth) ⭐ 1,877 | 🐛 259 | 🌐 Python | 📅 2026-06-05: A set of REST API endpoints to handle User Registration and Authentication tasks
@@ -48,7 +48,7 @@
 
 ### Authorization
 
-* [djangorestframework-api-key](https://github.com/florimondmanca/djangorestframework-api-key) ⭐ 743 | 🐛 18 | 🌐 Python | 📅 2025-04-04: API key permissions.
+* [djangorestframework-api-key](https://github.com/florimondmanca/djangorestframework-api-key) ⭐ 744 | 🐛 18 | 🌐 Python | 📅 2025-04-04: API key permissions.
 * [drf-access-policy](https://github.com/rsinger86/drf-access-policy) ⭐ 513 | 🐛 28 | 🌐 Python | 📅 2024-08-20: Declarative access policies/permissions modeled after AWS' IAM policies.
 * [dry-rest-permissions](https://github.com/dbkaplan/dry-rest-permissions) ⭐ 367 | 🐛 23 | 🌐 Python | 📅 2022-12-26: Rules based permissions.
 * [rest\_condition](https://github.com/caxap/rest_condition) ⭐ 279 | 🐛 7 | 🌐 Python | 📅 2019-01-04: Complex permissions flow.
@@ -61,7 +61,7 @@
 ### Documentation
 
 * [drf-yasg](https://github.com/axnsan12/drf-yasg) ⭐ 3,545 | 🐛 218 | 🌐 Python | 📅 2026-10-09: Alternative OpenAPI Generator for Django REST Framework with response schema support
-* [drf-spectacular](https://github.com/tfranzel/drf-spectacular) ⭐ 2,871 | 🐛 231 | 🌐 Python | 📅 2026-10-23: Sane and flexible OpenAPI 3.0 schema generation for Django REST framework
+* [drf-spectacular](https://github.com/tfranzel/drf-spectacular) ⭐ 2,871 | 🐛 230 | 🌐 Python | 📅 2026-10-23: Sane and flexible OpenAPI 3.0 schema generation for Django REST framework
 * [drf-openapi-tester](https://github.com/snok/drf-openapi-tester) ⚠️ Archived: Test drf test responses against OpenAPI/Swagger documentation.
 
 ### Routing
@@ -81,7 +81,7 @@
 ### Visualization
 
 * [django-rest-pandas](https://github.com/wq/django-rest-pandas) ⭐ 1,273 | 🐛 9 | 🌐 Python | 📅 2026-02-10: Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel)
-* [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis) ⭐ 1,131 | 🐛 33 | 🌐 Python | 📅 2026-10-30: Geographic add-ons for Django REST Framework
+* [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis) ⭐ 1,131 | 🐛 34 | 🌐 Python | 📅 2026-11-01: Geographic add-ons for Django REST Framework
 * [drf-renderer-xlsx](https://github.com/wharton/drf-renderer-xlsx) ⭐ 243 | 🐛 10 | 🌐 Python | 📅 2026-10-27: Allows you to create XLSX for Django REST Framework
 
 ### Logging
@@ -116,11 +116,11 @@
 ### Other
 
 * [drf-extensions](https://github.com/chibisov/drf-extensions) ⭐ 1,548 | 🐛 73 | 🌐 Python | 📅 2026-08-06: DRF-extensions is a collection of custom extensions for Django REST Framework
-* [django-rest-framework-json-api](https://github.com/django-json-api/django-rest-framework-json-api) ⭐ 1,256 | 🐛 11 | 🌐 Python | 📅 2026-10-29: Implements most of the JSON API 1.0 spec.
+* [django-rest-framework-json-api](https://github.com/django-json-api/django-rest-framework-json-api) ⭐ 1,256 | 🐛 12 | 🌐 Python | 📅 2026-11-01: Implements most of the JSON API 1.0 spec.
 * [django-restql](https://github.com/yezyilomo/django-restql) ⭐ 623 | 🐛 25 | 🌐 Python | 📅 2025-08-13: Turn your API made with Django REST Framework(DRF) into a GraphQL like API.
 * [drf-generators](https://github.com/Brobin/drf-generators) ⭐ 347 | 🐛 11 | 🌐 Python | 📅 2022-10-19: Generate Views, Serializers, and Urls for your Django Rest Framework application.
 * [django-rest-cli](https://github.com/py-universe/django-rest-cli) ⭐ 116 | 🐛 1 | 🌐 Python | 📅 2022-06-11: A CRUD endpoints generator and flexible cookiecutter for rapid REST APIs dev.
-* [django-orm-lens](https://github.com/FROWNINGdev/django-orm-lens) ⭐ 96 | 🐛 6 | 🌐 Python | 📅 2026-10-31: Static analyzer for Django models — sidebar tree, ER diagram, ORM linter, MCP server. Helps trace model shapes that ViewSets and Serializers reason about. No DB, no Django boot.
+* [django-orm-lens](https://github.com/FROWNINGdev/django-orm-lens) ⭐ 96 | 🐛 7 | 🌐 Python | 📅 2026-10-31: Static analyzer for Django models — sidebar tree, ER diagram, ORM linter, MCP server. Helps trace model shapes that ViewSets and Serializers reason about. No DB, no Django boot.
 * [django-rest-localflavor](https://github.com/gilsondev/django-rest-localflavor/) ⭐ 18 | 🐛 9 | 🌐 Python | 📅 2022-12-26: Country-specific Django helpers, to use in Django Rest Framework
 * [django-rest-tsg](https://github.com/jinkanhq/django-rest-tsg) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2024-03-31: A TypeScript code generator for DRF serializers, enums and dataclasses.
 * [drf-sendables](https://github.com/amikrop/drf-sendables) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-06-07: User messages for Django REST Framework
@@ -173,4 +173,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
