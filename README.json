@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-03T19:56:05Z",
-                "open_issues": 154,
+                "open_issues": 155,
                 "owner": "jazzband",
                 "repo": "djangorestframework-simplejwt",
                 "stars": 4337,
@@ -42,7 +42,7 @@
                 "open_issues": 45,
                 "owner": "django-oauth",
                 "repo": "django-oauth-toolkit",
-                "stars": 3344,
+                "stars": 3345,
                 "topics": [
                   "django",
                   "oauth2",
@@ -90,7 +90,7 @@
                 "id": 243840407,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-06-05T17:02:00Z",
+                "last_commit": "2026-11-07T23:35:48Z",
                 "open_issues": 259,
                 "owner": "iMerica",
                 "repo": "dj-rest-auth",
@@ -859,7 +859,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-04T19:34:52Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "django-commons",
                 "repo": "drf-excel",
                 "stars": 244,
@@ -1174,7 +1174,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-04T19:34:52Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "django-commons",
                 "repo": "drf-excel",
                 "stars": 244,
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T00:22:42.645Z",
+    "last_updated": "2026-11-07T23:59:10.237Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
