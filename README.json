@@ -94,7 +94,7 @@
                 "open_issues": 259,
                 "owner": "iMerica",
                 "repo": "dj-rest-auth",
-                "stars": 1878,
+                "stars": 1879,
                 "topics": [
                   "authentication",
                   "django",
@@ -477,7 +477,7 @@
                 "open_issues": 218,
                 "owner": "axnsan12",
                 "repo": "drf-yasg",
-                "stars": 3546,
+                "stars": 3547,
                 "topics": [
                   "coreapi",
                   "django",
@@ -512,7 +512,7 @@
                 "open_issues": 228,
                 "owner": "tfranzel",
                 "repo": "drf-spectacular",
-                "stars": 2870,
+                "stars": 2871,
                 "topics": [
                   "django",
                   "documentation-generator",
@@ -1458,7 +1458,7 @@
                 "open_issues": 3,
                 "owner": "FROWNINGdev",
                 "repo": "orm-lens",
-                "stars": 98,
+                "stars": 99,
                 "topics": [
                   "ai-agents",
                   "alembic",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T01:08:12.835Z",
+    "last_updated": "2026-11-07T00:22:42.645Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
