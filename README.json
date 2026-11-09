@@ -90,7 +90,7 @@
                 "id": 243840407,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-07T23:35:48Z",
+                "last_commit": "2026-11-08T00:43:11Z",
                 "open_issues": 259,
                 "owner": "iMerica",
                 "repo": "dj-rest-auth",
@@ -859,7 +859,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-04T19:34:52Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "django-commons",
                 "repo": "drf-excel",
                 "stars": 244,
@@ -1174,7 +1174,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-04T19:34:52Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "django-commons",
                 "repo": "drf-excel",
                 "stars": 244,
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T23:59:10.237Z",
+    "last_updated": "2026-11-09T00:04:06.417Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
@@ -1572,10 +1572,10 @@
       "language": null,
       "license": "GPL-3.0",
       "last_commit": "2026-09-11T19:43:32Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "nioperas06",
       "repo": "awesome-django-rest-framework",
-      "stars": 1475,
+      "stars": 1476,
       "topics": [
         "api",
         "awesome",
