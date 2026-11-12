@@ -17,11 +17,11 @@
                 "id": 90401750,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-10T23:52:26Z",
-                "open_issues": 157,
+                "last_commit": "2026-11-11T04:19:33Z",
+                "open_issues": 156,
                 "owner": "jazzband",
                 "repo": "djangorestframework-simplejwt",
-                "stars": 4337,
+                "stars": 4336,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
@@ -803,7 +803,7 @@
                 "open_issues": 9,
                 "owner": "wq",
                 "repo": "django-rest-pandas",
-                "stars": 1274,
+                "stars": 1275,
                 "topics": [
                   "chart",
                   "csv",
@@ -1104,7 +1104,7 @@
                 "open_issues": 9,
                 "owner": "wq",
                 "repo": "django-rest-pandas",
-                "stars": 1274,
+                "stars": 1275,
                 "topics": [
                   "chart",
                   "csv",
@@ -1454,11 +1454,11 @@
                 "id": 1298571736,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-10T13:36:57Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-11T10:12:37Z",
+                "open_issues": 4,
                 "owner": "FROWNINGdev",
                 "repo": "orm-lens",
-                "stars": 99,
+                "stars": 100,
                 "topics": [
                   "ai-agents",
                   "alembic",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T00:54:46.140Z",
+    "last_updated": "2026-11-12T02:01:15.036Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
