@@ -477,7 +477,7 @@
                 "open_issues": 218,
                 "owner": "axnsan12",
                 "repo": "drf-yasg",
-                "stars": 3547,
+                "stars": 3546,
                 "topics": [
                   "coreapi",
                   "django",
@@ -1348,7 +1348,7 @@
                 "id": 21987374,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-02T17:42:08Z",
+                "last_commit": "2026-11-12T12:40:56Z",
                 "open_issues": 11,
                 "owner": "django-json-api",
                 "repo": "django-rest-framework-json-api",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T02:01:15.036Z",
+    "last_updated": "2026-11-13T01:29:04.940Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
