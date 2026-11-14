@@ -509,7 +509,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-23T10:24:02Z",
-                "open_issues": 228,
+                "open_issues": 229,
                 "owner": "tfranzel",
                 "repo": "drf-spectacular",
                 "stars": 2871,
@@ -1458,7 +1458,7 @@
                 "open_issues": 4,
                 "owner": "FROWNINGdev",
                 "repo": "orm-lens",
-                "stars": 100,
+                "stars": 108,
                 "topics": [
                   "ai-agents",
                   "alembic",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T01:29:04.940Z",
+    "last_updated": "2026-11-14T01:03:50.593Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
