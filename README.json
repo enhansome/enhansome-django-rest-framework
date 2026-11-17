@@ -17,7 +17,7 @@
                 "id": 90401750,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-11T04:19:33Z",
+                "last_commit": "2026-11-16T17:46:35Z",
                 "open_issues": 156,
                 "owner": "jazzband",
                 "repo": "djangorestframework-simplejwt",
@@ -38,11 +38,11 @@
                 "id": 10176112,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-31T18:03:22Z",
-                "open_issues": 46,
+                "last_commit": "2026-11-16T15:16:34Z",
+                "open_issues": 49,
                 "owner": "django-oauth",
                 "repo": "django-oauth-toolkit",
-                "stars": 3345,
+                "stars": 3347,
                 "topics": [
                   "django",
                   "oauth2",
@@ -247,7 +247,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-04T08:39:25Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "florimondmanca",
                 "repo": "djangorestframework-api-key",
                 "stars": 746,
@@ -453,6 +453,41 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
+            },
+            {
+              "node_type": "item",
+              "title": "usagerail",
+              "description": "Django middleware that checks API keys and each customer's rate limit and quota before DRF views run, and counts usage per customer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "UsageRail SDKs for Node.js and Python: API keys, rate limits, quotas and usage metering inside your API server",
+                "homepage": "https://usagerail.com/docs",
+                "id": 1432905573,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-11-15T09:35:58Z",
+                "open_issues": 0,
+                "owner": "usagerail",
+                "repo": "sdk",
+                "stars": 1,
+                "topics": [
+                  "api-keys",
+                  "django",
+                  "express",
+                  "fastapi",
+                  "fastify",
+                  "flask",
+                  "hono",
+                  "metering",
+                  "nodejs",
+                  "python",
+                  "rate-limiting",
+                  "stripe",
+                  "usage-based-billing"
+                ]
+              },
+              "first_seen": "2026-11-17T03:11:44.652Z"
             }
           ],
           "description": null,
@@ -477,7 +512,7 @@
                 "open_issues": 218,
                 "owner": "axnsan12",
                 "repo": "drf-yasg",
-                "stars": 3547,
+                "stars": 3548,
                 "topics": [
                   "coreapi",
                   "django",
@@ -495,6 +530,47 @@
                 ]
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Cortex",
+              "description": "Generate interactive API documentation, typed SDKs, and MCP servers from the OpenAPI schema produced by Django REST Framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Cortex - Generates interactive API documentation, typed SDKs, and MCP servers from OpenAPI, AsyncAPI, GraphQL, gRPC, OpenRPC, and Markdown.",
+                "homepage": "https://cortexdocs.dev",
+                "id": 30551356,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-06T05:58:39Z",
+                "open_issues": 3,
+                "owner": "cortex-docs",
+                "repo": "cortex",
+                "stars": 3294,
+                "topics": [
+                  "api-client",
+                  "api-documentation",
+                  "api-reference",
+                  "asyncapi",
+                  "code-generation",
+                  "docs",
+                  "documentation-generator",
+                  "graphql",
+                  "grpc",
+                  "markdown",
+                  "mcp",
+                  "mcp-server",
+                  "mode-context-protocol",
+                  "openapi",
+                  "openapi-generator",
+                  "openrpc",
+                  "protobuf",
+                  "sdk-generator",
+                  "swagger"
+                ]
+              },
+              "first_seen": "2026-11-17T03:11:44.652Z"
             },
             {
               "node_type": "item",
@@ -723,6 +799,38 @@
             },
             {
               "node_type": "item",
+              "title": "imgproxykit",
+              "description": "Django REST Framework serializer fields for generating imgproxy image URLs and named variants with reusable transformations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A typed Python toolkit for building imgproxy URLs",
+                "homepage": "https://imgproxykit.rtfd.io",
+                "id": 1421986157,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-17T02:08:43Z",
+                "open_issues": 6,
+                "owner": "wemake-services",
+                "repo": "imgproxykit",
+                "stars": 19,
+                "topics": [
+                  "django",
+                  "django-modern-rest",
+                  "django-rest-framework",
+                  "fastapi",
+                  "image-processing",
+                  "image-transformations",
+                  "imgproxy",
+                  "litestar",
+                  "python",
+                  "url-builder"
+                ]
+              },
+              "first_seen": "2026-11-17T03:11:44.652Z"
+            },
+            {
+              "node_type": "item",
               "title": "drf-errors",
               "description": "Extension for Django REST framework error display.",
               "children": [],
@@ -834,7 +942,7 @@
                 "open_issues": 32,
                 "owner": "openwisp",
                 "repo": "django-rest-framework-gis",
-                "stars": 1131,
+                "stars": 1132,
                 "topics": [
                   "django",
                   "django-rest-framework",
@@ -922,6 +1030,48 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:06.292Z"
+            },
+            {
+              "node_type": "item",
+              "title": "logbrew-django",
+              "description": "Error monitoring for Django and DRF. Unhandled errors show up in LogBrew with the request and the logs around them.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official LogBrew SDKs for sending logs, traces, issues, and actions from apps and services.",
+                "homepage": "https://logbrew.co",
+                "id": 1257507925,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-11-16T09:32:16Z",
+                "open_issues": 25,
+                "owner": "LogBrewCo",
+                "repo": "sdk",
+                "stars": 5,
+                "topics": [
+                  "cpp",
+                  "dotnet",
+                  "error-tracking",
+                  "go",
+                  "java",
+                  "javascript",
+                  "kotlin",
+                  "logging",
+                  "metrics",
+                  "observability",
+                  "opentelemetry",
+                  "php",
+                  "python",
+                  "ruby",
+                  "rust",
+                  "sdk",
+                  "swift",
+                  "tracing",
+                  "typescript",
+                  "unity"
+                ]
+              },
+              "first_seen": "2026-11-17T03:11:44.652Z"
             }
           ],
           "description": null,
@@ -966,8 +1116,8 @@
                 "id": 41273555,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2024-05-03T10:21:32Z",
-                "open_issues": 47,
+                "last_commit": "2026-11-16T16:44:38Z",
+                "open_issues": 48,
                 "owner": "miki725",
                 "repo": "django-url-filter",
                 "stars": 330,
@@ -1348,8 +1498,8 @@
                 "id": 21987374,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-12T12:40:56Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-16T19:32:50Z",
+                "open_issues": 10,
                 "owner": "django-json-api",
                 "repo": "django-rest-framework-json-api",
                 "stars": 1255,
@@ -1454,11 +1604,11 @@
                 "id": 1298571736,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-15T08:22:29Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-16T18:11:22Z",
+                "open_issues": 16,
                 "owner": "FROWNINGdev",
                 "repo": "orm-lens",
-                "stars": 110,
+                "stars": 111,
                 "topics": [
                   "ai-agents",
                   "alembic",
@@ -1563,7 +1713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T00:24:08.288Z",
+    "last_updated": "2026-11-17T03:11:44.652Z",
     "original_repository_info": {
       "archived": false,
       "description": " 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework",
@@ -1571,8 +1721,8 @@
       "id": 96670275,
       "language": null,
       "license": "GPL-3.0",
-      "last_commit": "2026-09-11T19:43:32Z",
-      "open_issues": 3,
+      "last_commit": "2026-11-16T07:26:24Z",
+      "open_issues": 0,
       "owner": "nioperas06",
       "repo": "awesome-django-rest-framework",
       "stars": 1476,
@@ -1589,7 +1739,7 @@
         "usefull-drf"
       ]
     },
-    "original_repository_sha": "0cdbc771b15b2d36c86dedaf5481762e223ca78e",
+    "original_repository_sha": "48b1f351e313e2e52dd339ea61ce78077b1ca071",
     "enhanced_repository": "enhansome/enhansome-django-rest-framework",
     "enhanced_repository_description": null,
     "title": "Awesome Django REST Framework with stars"
