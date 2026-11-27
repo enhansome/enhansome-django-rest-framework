@@ -57,7 +57,7 @@
 * [djangorestframework-composed-permissions](https://github.com/niwinz/djangorestframework-composed-permissions) ⭐ 81 | 🐛 1 | 🌐 Python | 📅 2019-03-17: A simple way to define complex permissions.
 * [drf-psq](https://github.com/drf-psq/drf-psq) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2021-02-26: The simplest and most general way to manage action-based permissions, serializers, and querysets dependent on permission-based rules.
 * [axioms-drf-py](https://github.com/abhishektiwari/axioms-drf-py) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-11-24: OAuth2/OIDC based authentication and authorization for Django REST Framework APIs. Supports authentication and claim-based fine-grained authorization (scopes, roles, permissions) using JWT tokens.
-* [usagerail](https://github.com/usagerail/sdk) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-21: Django middleware that checks API keys and each customer's rate limit and quota before DRF views run, and counts usage per customer.
+* [usagerail](https://github.com/usagerail/sdk) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-26: Django middleware that checks API keys and each customer's rate limit and quota before DRF views run, and counts usage per customer.
 
 ### Documentation
 
@@ -76,8 +76,8 @@
 * [drf-flex-fields](https://github.com/rsinger86/drf-flex-fields) ⭐ 764 | 🐛 32 | 🌐 Python | 📅 2023-10-16: Dynamically set fields and expand nested resources in Django REST Framework serializers.
 * [drf-extra-fields](https://github.com/Hipo/drf-extra-fields/) ⭐ 687 | 🐛 19 | 🌐 Python | 📅 2025-08-26: Extra fields for Django REST framework.
 * [django-rest-framework-recursive](https://github.com/heywbj/django-rest-framework-recursive/) ⭐ 365 | 🐛 6 | 🌐 Python | 📅 2024-08-14: Recursive Serialization for Django REST framework
-* [drf-shapeless-serializers](https://github.com/khaledsukkar2/drf-shapeless-serializers) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2026-01-12: provides powerful mixins that extend Django REST Framework's serializers with dynamic configuration capabilities so you can select fields at runtime, rename output keys dynamically, modify field attributes per-request, add and configure nested relationships on-the-fly and apply conditional field logic.
-* [imgproxykit](https://github.com/kondratevdev/imgproxykit) ⭐ 20 | 🐛 8 | 🌐 Python | 📅 2026-11-26: Django REST Framework serializer fields for generating imgproxy image URLs and named variants with reusable transformations.
+* [drf-shapeless-serializers](https://github.com/khaledsukkar2/drf-shapeless-serializers) ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2026-01-12: provides powerful mixins that extend Django REST Framework's serializers with dynamic configuration capabilities so you can select fields at runtime, rename output keys dynamically, modify field attributes per-request, add and configure nested relationships on-the-fly and apply conditional field logic.
+* [imgproxykit](https://github.com/kondratevdev/imgproxykit) ⭐ 21 | 🐛 5 | 🌐 Python | 📅 2026-11-27: Django REST Framework serializer fields for generating imgproxy image URLs and named variants with reusable transformations.
 * [drf-errors](https://github.com/null-none/drf-errors/) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2022-09-16: Extension for Django REST framework error display.
 * [drf-simple-api-errors](https://github.com/gripep/drf-simple-api-errors) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-06-15: Consistent, predictable API error responses inspired by RFC 7807, with drf-spectacular integration for OpenAPI schemas.
 
@@ -91,7 +91,7 @@
 
 * [drf-api-tracking](https://github.com/lingster/drf-api-tracking) ⭐ 287 | 🐛 41 | 🌐 Python | 📅 2024-07-26: Provides a Django model and DRF view mixin that work together to log Django Rest Framework requests to the database.
 * [django-requestlogs](https://github.com/Raekkeri/django-requestlogs) ⭐ 64 | 🐛 4 | 🌐 Python | 📅 2025-03-05: Package providing middleware and other helpers for audit logging.
-* [logbrew-django](https://github.com/LogBrewCo/sdk/tree/main/python/logbrew_django) ⭐ 5 | 🐛 33 | 🌐 JavaScript | 📅 2026-11-25: Error monitoring for Django and DRF. Unhandled errors show up in LogBrew with the request and the logs around them.
+* [logbrew-django](https://github.com/LogBrewCo/sdk/tree/main/python/logbrew_django) ⭐ 7 | 🐛 34 | 🌐 JavaScript | 📅 2026-11-26: Error monitoring for Django and DRF. Unhandled errors show up in LogBrew with the request and the logs around them.
 
 ### Filtering
 
@@ -124,7 +124,7 @@
 * [django-restql](https://github.com/yezyilomo/django-restql) ⭐ 623 | 🐛 25 | 🌐 Python | 📅 2025-08-13: Turn your API made with Django REST Framework(DRF) into a GraphQL like API.
 * [drf-generators](https://github.com/Brobin/drf-generators) ⭐ 347 | 🐛 11 | 🌐 Python | 📅 2022-10-19: Generate Views, Serializers, and Urls for your Django Rest Framework application.
 * [django-rest-cli](https://github.com/py-universe/django-rest-cli) ⭐ 116 | 🐛 1 | 🌐 Python | 📅 2022-06-11: A CRUD endpoints generator and flexible cookiecutter for rapid REST APIs dev.
-* [django-orm-lens](https://github.com/FROWNINGdev/django-orm-lens) ⭐ 114 | 🐛 18 | 🌐 Python | 📅 2026-11-24: Static analyzer for Django models — sidebar tree, ER diagram, ORM linter, MCP server. Helps trace model shapes that ViewSets and Serializers reason about. No DB, no Django boot.
+* [django-orm-lens](https://github.com/FROWNINGdev/django-orm-lens) ⭐ 114 | 🐛 20 | 🌐 Python | 📅 2026-11-24: Static analyzer for Django models — sidebar tree, ER diagram, ORM linter, MCP server. Helps trace model shapes that ViewSets and Serializers reason about. No DB, no Django boot.
 * [django-rest-localflavor](https://github.com/gilsondev/django-rest-localflavor/) ⭐ 18 | 🐛 9 | 🌐 Python | 📅 2022-12-26: Country-specific Django helpers, to use in Django Rest Framework
 * [django-rest-tsg](https://github.com/jinkanhq/django-rest-tsg) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2024-03-31: A TypeScript code generator for DRF serializers, enums and dataclasses.
 * [drf-sendables](https://github.com/amikrop/drf-sendables) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-06-07: User messages for Django REST Framework
@@ -177,4 +177,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
